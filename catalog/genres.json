@@ -1,0 +1,8415 @@
+{
+  "username": "jekidev",
+  "exportedAt": "2026-09-06T22:29:18.128Z",
+  "classifiedAt": "2026-09-06T22:38:58.619Z",
+  "assignments": [
+    {
+      "fullName": "Acode-Foundation/Acode",
+      "genres": [
+        "mobile-android",
+        "cli-ides",
+        "typescript-javascript"
+      ]
+    },
+    {
+      "fullName": "MaheshTechnicals/Windsurf-Termux",
+      "genres": [
+        "mobile-android",
+        "cli-ides"
+      ]
+    },
+    {
+      "fullName": "FlashML-org/FreeToken",
+      "genres": [
+        "other",
+        "python"
+      ]
+    },
+    {
+      "fullName": "every-app/open-seo",
+      "genres": [
+        "other",
+        "typescript-javascript"
+      ]
+    },
+    {
+      "fullName": "bilawalsidhu/gods-eye-view",
+      "genres": [
+        "other",
+        "typescript-javascript"
+      ]
+    },
+    {
+      "fullName": "EfficientStreet/youtube-subscriptions-ingest",
+      "genres": [
+        "other",
+        "python"
+      ]
+    },
+    {
+      "fullName": "prakhar1989/awesome-courses",
+      "genres": [
+        "awesome-lists"
+      ]
+    },
+    {
+      "fullName": "enaqx/awesome-react",
+      "genres": [
+        "awesome-lists",
+        "web-frontend"
+      ]
+    },
+    {
+      "fullName": "jaywcjlove/awesome-mac",
+      "genres": [
+        "awesome-lists",
+        "mobile-android"
+      ]
+    },
+    {
+      "fullName": "awesome-selfhosted/awesome-selfhosted",
+      "genres": [
+        "awesome-lists"
+      ]
+    },
+    {
+      "fullName": "sindresorhus/awesome",
+      "genres": [
+        "awesome-lists"
+      ]
+    },
+    {
+      "fullName": "freestylefly/awesome-gpt-image-2",
+      "genres": [
+        "awesome-lists",
+        "llm-models",
+        "typescript-javascript"
+      ]
+    },
+    {
+      "fullName": "vitali87/code-graph-rag",
+      "genres": [
+        "other",
+        "python"
+      ]
+    },
+    {
+      "fullName": "huangruiteng/loopx",
+      "genres": [
+        "ai-agents",
+        "python"
+      ]
+    },
+    {
+      "fullName": "omacom/omarchy",
+      "genres": [
+        "other"
+      ]
+    },
+    {
+      "fullName": "semantica-agi/semantica",
+      "genres": [
+        "other",
+        "python"
+      ]
+    },
+    {
+      "fullName": "cursor/plugins",
+      "genres": [
+        "cli-ides",
+        "typescript-javascript"
+      ]
+    },
+    {
+      "fullName": "cloudflare/cloudflare-os",
+      "genres": [
+        "ai-agents",
+        "typescript-javascript"
+      ]
+    },
+    {
+      "fullName": "THU-MAIC/OpenMAIC",
+      "genres": [
+        "ai-agents",
+        "typescript-javascript"
+      ]
+    },
+    {
+      "fullName": "apache/maka",
+      "genres": [
+        "ai-agents",
+        "typescript-javascript"
+      ]
+    },
+    {
+      "fullName": "cloudflare/computer",
+      "genres": [
+        "ai-agents",
+        "typescript-javascript"
+      ]
+    },
+    {
+      "fullName": "google/skills",
+      "genres": [
+        "ai-agents",
+        "python"
+      ]
+    },
+    {
+      "fullName": "tt-a1i/archify",
+      "genres": [
+        "ai-agents",
+        "typescript-javascript"
+      ]
+    },
+    {
+      "fullName": "Tyrrrz/DiscordChatExporter",
+      "genres": [
+        "osint-telegram"
+      ]
+    },
+    {
+      "fullName": "s-k-y-h-i-g-h/biohack",
+      "genres": [
+        "biohacking-health",
+        "systems-rust-go-cpp"
+      ]
+    },
+    {
+      "fullName": "jazzband/pip-tools",
+      "genres": [
+        "other",
+        "python"
+      ]
+    },
+    {
+      "fullName": "nativefier/nativefier",
+      "genres": [
+        "other",
+        "typescript-javascript"
+      ]
+    },
+    {
+      "fullName": "Itsokay-co/bio-vibing",
+      "genres": [
+        "ai-agents",
+        "biohacking-health",
+        "python"
+      ]
+    },
+    {
+      "fullName": "dna-seq/just-dna-lite",
+      "genres": [
+        "other",
+        "python"
+      ]
+    },
+    {
+      "fullName": "Si3gh/awesome-biohacking",
+      "genres": [
+        "awesome-lists"
+      ]
+    },
+    {
+      "fullName": "JonnyBanana/THE-BIOHACKING-BIBLE",
+      "genres": [
+        "other"
+      ]
+    },
+    {
+      "fullName": "ayghri/i-have-adhd",
+      "genres": [
+        "ai-agents",
+        "python"
+      ]
+    },
+    {
+      "fullName": "TencentCloud/TencentDB-Agent-Memory",
+      "genres": [
+        "ai-agents",
+        "llm-models",
+        "typescript-javascript"
+      ]
+    },
+    {
+      "fullName": "cactus-compute/needle",
+      "genres": [
+        "other",
+        "python"
+      ]
+    },
+    {
+      "fullName": "volcengine/OpenViking",
+      "genres": [
+        "ai-agents",
+        "python"
+      ]
+    },
+    {
+      "fullName": "citrolabs/ego-lite",
+      "genres": [
+        "ai-agents",
+        "typescript-javascript"
+      ]
+    },
+    {
+      "fullName": "serhii-londar/open-source-mac-os-apps",
+      "genres": [
+        "awesome-lists"
+      ]
+    },
+    {
+      "fullName": "rust-unofficial/awesome-rust",
+      "genres": [
+        "awesome-lists",
+        "systems-rust-go-cpp"
+      ]
+    },
+    {
+      "fullName": "papers-we-love/papers-we-love",
+      "genres": [
+        "other"
+      ]
+    },
+    {
+      "fullName": "vinta/awesome-python",
+      "genres": [
+        "awesome-lists",
+        "python"
+      ]
+    },
+    {
+      "fullName": "virgiliojr94/book-to-skill",
+      "genres": [
+        "ai-agents",
+        "python"
+      ]
+    },
+    {
+      "fullName": "openai/codex",
+      "genres": [
+        "ai-agents",
+        "systems-rust-go-cpp"
+      ]
+    },
+    {
+      "fullName": "tinyhumansai/openhuman",
+      "genres": [
+        "ai-agents",
+        "systems-rust-go-cpp"
+      ]
+    },
+    {
+      "fullName": "ruvnet/ruflo",
+      "genres": [
+        "ai-agents",
+        "typescript-javascript"
+      ]
+    },
+    {
+      "fullName": "gavamedia/deltafin",
+      "genres": [
+        "ai-agents",
+        "systems-rust-go-cpp"
+      ]
+    },
+    {
+      "fullName": "addyosmani/agent-skills",
+      "genres": [
+        "ai-agents",
+        "typescript-javascript"
+      ]
+    },
+    {
+      "fullName": "tashfeenahmed/freellmapi",
+      "genres": [
+        "llm-models",
+        "typescript-javascript"
+      ]
+    },
+    {
+      "fullName": "semanser/codel",
+      "genres": [
+        "ai-agents",
+        "cli-ides",
+        "typescript-javascript"
+      ]
+    },
+    {
+      "fullName": "farag2/Sophia-Script-for-Windows",
+      "genres": [
+        "other"
+      ]
+    },
+    {
+      "fullName": "koala73/worldmonitor",
+      "genres": [
+        "other",
+        "typescript-javascript"
+      ]
+    },
+    {
+      "fullName": "jekidev/-Ubermench-Personal-Biohacking-Framework-",
+      "genres": [
+        "other",
+        "typescript-javascript"
+      ]
+    },
+    {
+      "fullName": "LeeJunHyun/Database-Resources-for-Drug-Discovery",
+      "genres": [
+        "other"
+      ]
+    },
+    {
+      "fullName": "NVIDIA-BioNeMo/bionemo-recipes",
+      "genres": [
+        "other",
+        "python"
+      ]
+    },
+    {
+      "fullName": "gnn4dr/DRKG",
+      "genres": [
+        "data-ml"
+      ]
+    },
+    {
+      "fullName": "TripSit/drugs",
+      "genres": [
+        "other",
+        "typescript-javascript"
+      ]
+    },
+    {
+      "fullName": "DeepGraphLearning/torchdrug",
+      "genres": [
+        "other",
+        "python"
+      ]
+    },
+    {
+      "fullName": "oddt/oddt",
+      "genres": [
+        "other",
+        "python"
+      ]
+    },
+    {
+      "fullName": "atilatech/awesome-longevity",
+      "genres": [
+        "awesome-lists",
+        "biohacking-health"
+      ]
+    },
+    {
+      "fullName": "firecrawl/pdf-inspector",
+      "genres": [
+        "other",
+        "systems-rust-go-cpp"
+      ]
+    },
+    {
+      "fullName": "cypress-io/cypress",
+      "genres": [
+        "other",
+        "typescript-javascript"
+      ]
+    },
+    {
+      "fullName": "angular/angular",
+      "genres": [
+        "other",
+        "typescript-javascript"
+      ]
+    },
+    {
+      "fullName": "Future-House/paper-qa",
+      "genres": [
+        "other",
+        "python"
+      ]
+    },
+    {
+      "fullName": "tiimgreen/github-cheat-sheet",
+      "genres": [
+        "other"
+      ]
+    },
+    {
+      "fullName": "getzep/graphiti",
+      "genres": [
+        "ai-agents",
+        "python"
+      ]
+    },
+    {
+      "fullName": "mem0ai/mem0",
+      "genres": [
+        "ai-agents",
+        "python"
+      ]
+    },
+    {
+      "fullName": "letta-ai/letta-code",
+      "genres": [
+        "ai-agents",
+        "learning",
+        "typescript-javascript"
+      ]
+    },
+    {
+      "fullName": "jekidev/agenticSeek",
+      "genres": [
+        "ai-agents"
+      ]
+    },
+    {
+      "fullName": "galacean/engine",
+      "genres": [
+        "other",
+        "typescript-javascript"
+      ]
+    },
+    {
+      "fullName": "BabylonJS/Babylon.js",
+      "genres": [
+        "other",
+        "typescript-javascript"
+      ]
+    },
+    {
+      "fullName": "stfalcon-studio/ChatKit",
+      "genres": [
+        "mobile-android"
+      ]
+    },
+    {
+      "fullName": "UPinar/contrastapi",
+      "genres": [
+        "ai-agents",
+        "security",
+        "python"
+      ]
+    },
+    {
+      "fullName": "mrdoob/three.js",
+      "genres": [
+        "other",
+        "typescript-javascript"
+      ]
+    },
+    {
+      "fullName": "todoroki-godai/evolve-anything",
+      "genres": [
+        "ai-agents",
+        "python"
+      ]
+    },
+    {
+      "fullName": "sammcj/agentic-coding",
+      "genres": [
+        "ai-agents",
+        "python"
+      ]
+    },
+    {
+      "fullName": "yuliskov/SmartTube",
+      "genres": [
+        "mobile-android"
+      ]
+    },
+    {
+      "fullName": "k88hudson/git-flight-rules",
+      "genres": [
+        "other"
+      ]
+    },
+    {
+      "fullName": "thedaviddias/Front-End-Checklist",
+      "genres": [
+        "ai-agents"
+      ]
+    },
+    {
+      "fullName": "tscizzle/IPD_Morality",
+      "genres": [
+        "other",
+        "python"
+      ]
+    },
+    {
+      "fullName": "PostHog/posthog",
+      "genres": [
+        "ai-agents",
+        "python"
+      ]
+    },
+    {
+      "fullName": "cline/cline",
+      "genres": [
+        "ai-agents",
+        "cli-ides",
+        "typescript-javascript"
+      ]
+    },
+    {
+      "fullName": "ZeroParadoxHome/Self-Destructing-Media-Downloader",
+      "genres": [
+        "osint-telegram",
+        "python"
+      ]
+    },
+    {
+      "fullName": "TG-V4MP1R3/Auto-Delete-Bot",
+      "genres": [
+        "osint-telegram",
+        "python"
+      ]
+    },
+    {
+      "fullName": "teletips/date-time-userbot-teletips",
+      "genres": [
+        "osint-telegram",
+        "python"
+      ]
+    },
+    {
+      "fullName": "muety/telegram-expense-bot",
+      "genres": [
+        "osint-telegram",
+        "typescript-javascript"
+      ]
+    },
+    {
+      "fullName": "holecardvoltampere165/teleFeed",
+      "genres": [
+        "osint-telegram",
+        "systems-rust-go-cpp"
+      ]
+    },
+    {
+      "fullName": "schollz/howmanypeoplearearound",
+      "genres": [
+        "other",
+        "python"
+      ]
+    },
+    {
+      "fullName": "ryanmcdermott/clean-code-javascript",
+      "genres": [
+        "other",
+        "typescript-javascript"
+      ]
+    },
+    {
+      "fullName": "harvard-edge/cs249r_book",
+      "genres": [
+        "other",
+        "python"
+      ]
+    },
+    {
+      "fullName": "openai/codex-plugin-cc",
+      "genres": [
+        "ai-agents",
+        "typescript-javascript"
+      ]
+    },
+    {
+      "fullName": "langflow-ai/langflow",
+      "genres": [
+        "ai-agents",
+        "python"
+      ]
+    },
+    {
+      "fullName": "msitarzewski/agency-agents",
+      "genres": [
+        "ai-agents",
+        "web-frontend"
+      ]
+    },
+    {
+      "fullName": "jekidev/agent-rules-books",
+      "genres": [
+        "ai-agents",
+        "cli-ides"
+      ]
+    },
+    {
+      "fullName": "TheJoeFin/Text-Grab",
+      "genres": [
+        "other"
+      ]
+    },
+    {
+      "fullName": "tesseract-ocr/tesseract",
+      "genres": [
+        "other",
+        "systems-rust-go-cpp"
+      ]
+    },
+    {
+      "fullName": "PartialVolume/shredos.x86_64",
+      "genres": [
+        "other"
+      ]
+    },
+    {
+      "fullName": "memstechtips/Winhance",
+      "genres": [
+        "other"
+      ]
+    },
+    {
+      "fullName": "zhm-real/PathPlanning",
+      "genres": [
+        "other",
+        "python"
+      ]
+    },
+    {
+      "fullName": "0xSero/ai-data-extraction",
+      "genres": [
+        "ai-agents",
+        "cli-ides",
+        "python"
+      ]
+    },
+    {
+      "fullName": "career-ops-hq/career-ops",
+      "genres": [
+        "ai-agents",
+        "cli-ides",
+        "typescript-javascript"
+      ]
+    },
+    {
+      "fullName": "pytorch/pytorch",
+      "genres": [
+        "data-ml",
+        "python"
+      ]
+    },
+    {
+      "fullName": "agentskills/agentskills",
+      "genres": [
+        "ai-agents",
+        "python"
+      ]
+    },
+    {
+      "fullName": "HKUDS/Vibe-Trading",
+      "genres": [
+        "ai-agents",
+        "python"
+      ]
+    },
+    {
+      "fullName": "browser-use/video-use",
+      "genres": [
+        "ai-agents",
+        "python"
+      ]
+    },
+    {
+      "fullName": "diegosouzapw/OmniRoute",
+      "genres": [
+        "ai-agents",
+        "llm-models",
+        "cli-ides",
+        "typescript-javascript"
+      ]
+    },
+    {
+      "fullName": "hasaneyldrm/exercises-dataset",
+      "genres": [
+        "biohacking-health",
+        "data-ml"
+      ]
+    },
+    {
+      "fullName": "n24q02m/imagine-mcp",
+      "genres": [
+        "ai-agents",
+        "python"
+      ]
+    },
+    {
+      "fullName": "RWXstoned/Slack-links-preview-C2",
+      "genres": [
+        "security",
+        "python"
+      ]
+    },
+    {
+      "fullName": "psf/requests",
+      "genres": [
+        "other",
+        "python"
+      ]
+    },
+    {
+      "fullName": "tailwindlabs/tailwindcss",
+      "genres": [
+        "other",
+        "typescript-javascript"
+      ]
+    },
+    {
+      "fullName": "rustybalboadev/Discord-Raid-Tool",
+      "genres": [
+        "osint-telegram"
+      ]
+    },
+    {
+      "fullName": "synacktiv/DCOMIllusionist",
+      "genres": [
+        "other"
+      ]
+    },
+    {
+      "fullName": "jonasstrehle/supercookie",
+      "genres": [
+        "other"
+      ]
+    },
+    {
+      "fullName": "biggerboy1stPeter/cloudrip",
+      "genres": [
+        "other"
+      ]
+    },
+    {
+      "fullName": "projectdiscovery/nuclei-templates",
+      "genres": [
+        "awesome-lists",
+        "security",
+        "typescript-javascript"
+      ]
+    },
+    {
+      "fullName": "microsoft/pyright",
+      "genres": [
+        "other",
+        "python"
+      ]
+    },
+    {
+      "fullName": "pydantic/pydantic",
+      "genres": [
+        "other",
+        "python"
+      ]
+    },
+    {
+      "fullName": "smicallef/spiderfoot",
+      "genres": [
+        "security",
+        "osint-telegram",
+        "python"
+      ]
+    },
+    {
+      "fullName": "python-poetry/poetry",
+      "genres": [
+        "other",
+        "python"
+      ]
+    },
+    {
+      "fullName": "psf/black",
+      "genres": [
+        "cli-ides",
+        "python"
+      ]
+    },
+    {
+      "fullName": "gerridolivier/Discord-Account-Generator",
+      "genres": [
+        "osint-telegram",
+        "python"
+      ]
+    },
+    {
+      "fullName": "carderne/signal-export",
+      "genres": [
+        "osint-telegram",
+        "python"
+      ]
+    },
+    {
+      "fullName": "anthropics/skills",
+      "genres": [
+        "ai-agents",
+        "python"
+      ]
+    },
+    {
+      "fullName": "revfactory/harness",
+      "genres": [
+        "ai-agents"
+      ]
+    },
+    {
+      "fullName": "obra/superpowers",
+      "genres": [
+        "ai-agents"
+      ]
+    },
+    {
+      "fullName": "twentyhq/twenty",
+      "genres": [
+        "other",
+        "typescript-javascript"
+      ]
+    },
+    {
+      "fullName": "hardikpandya/stop-slop",
+      "genres": [
+        "other"
+      ]
+    },
+    {
+      "fullName": "Leonxlnx/taste-skill",
+      "genres": [
+        "other",
+        "typescript-javascript"
+      ]
+    },
+    {
+      "fullName": "0xranx/golembot",
+      "genres": [
+        "ai-agents",
+        "llm-models",
+        "osint-telegram",
+        "cli-ides",
+        "typescript-javascript"
+      ]
+    },
+    {
+      "fullName": "dev0x13/telegram-chat-summarizer",
+      "genres": [
+        "osint-telegram",
+        "python"
+      ]
+    },
+    {
+      "fullName": "kmille/signal-account-switcher",
+      "genres": [
+        "osint-telegram",
+        "systems-rust-go-cpp"
+      ]
+    },
+    {
+      "fullName": "whxitte/brute-eagle",
+      "genres": [
+        "other",
+        "python"
+      ]
+    },
+    {
+      "fullName": "pypa/pip",
+      "genres": [
+        "other",
+        "python"
+      ]
+    },
+    {
+      "fullName": "Egonex-AI/Understand-Anything",
+      "genres": [
+        "ai-agents",
+        "cli-ides",
+        "typescript-javascript"
+      ]
+    },
+    {
+      "fullName": "multica-ai/multica",
+      "genres": [
+        "ai-agents",
+        "systems-rust-go-cpp"
+      ]
+    },
+    {
+      "fullName": "mukul975/Anthropic-Cybersecurity-Skills",
+      "genres": [
+        "ai-agents",
+        "security",
+        "cli-ides",
+        "python"
+      ]
+    },
+    {
+      "fullName": "Alishahryar1/free-claude-code",
+      "genres": [
+        "ai-agents",
+        "cli-ides",
+        "python"
+      ]
+    },
+    {
+      "fullName": "yuaotian/go-cursor-help",
+      "genres": [
+        "cli-ides"
+      ]
+    },
+    {
+      "fullName": "Shaivpidadi/FreeRideV3",
+      "genres": [
+        "llm-models",
+        "python"
+      ]
+    },
+    {
+      "fullName": "NOVA-3951/Replit-MCP",
+      "genres": [
+        "ai-agents",
+        "typescript-javascript"
+      ]
+    },
+    {
+      "fullName": "chenhg5/cc-connect",
+      "genres": [
+        "ai-agents",
+        "osint-telegram",
+        "cli-ides",
+        "systems-rust-go-cpp"
+      ]
+    },
+    {
+      "fullName": "fingerprintjs/fingerprintjs",
+      "genres": [
+        "other",
+        "typescript-javascript"
+      ]
+    },
+    {
+      "fullName": "siddharthvaddem/openscreen",
+      "genres": [
+        "other",
+        "typescript-javascript"
+      ]
+    },
+    {
+      "fullName": "ShareX/ShareX",
+      "genres": [
+        "other"
+      ]
+    },
+    {
+      "fullName": "codecrafters-io/build-your-own-x",
+      "genres": [
+        "other"
+      ]
+    },
+    {
+      "fullName": "anyrxo/protonmail-pro-mcp",
+      "genres": [
+        "ai-agents",
+        "typescript-javascript"
+      ]
+    },
+    {
+      "fullName": "deepfakes/faceswap",
+      "genres": [
+        "other",
+        "python"
+      ]
+    },
+    {
+      "fullName": "lunarca/SimpleEmailSpoofer",
+      "genres": [
+        "cli-ides",
+        "python"
+      ]
+    },
+    {
+      "fullName": "itm4n/PrintSpoofer",
+      "genres": [
+        "other",
+        "systems-rust-go-cpp"
+      ]
+    },
+    {
+      "fullName": "xvzc/spoofdpi",
+      "genres": [
+        "other",
+        "systems-rust-go-cpp"
+      ]
+    },
+    {
+      "fullName": "pyinfra-dev/pyinfra",
+      "genres": [
+        "devops-selfhosted",
+        "python"
+      ]
+    },
+    {
+      "fullName": "MythicAgents/poseidon",
+      "genres": [
+        "ai-agents",
+        "systems-rust-go-cpp"
+      ]
+    },
+    {
+      "fullName": "ELMERIKH/Keres",
+      "genres": [
+        "other",
+        "python"
+      ]
+    },
+    {
+      "fullName": "3v4Si0N/HTTP-revshell",
+      "genres": [
+        "security"
+      ]
+    },
+    {
+      "fullName": "ZeroMemoryEx/Amsi-Killer",
+      "genres": [
+        "security",
+        "systems-rust-go-cpp"
+      ]
+    },
+    {
+      "fullName": "Sh3lldon/FullBypass",
+      "genres": [
+        "other"
+      ]
+    },
+    {
+      "fullName": "tokyoneon/Chimera",
+      "genres": [
+        "security"
+      ]
+    },
+    {
+      "fullName": "S3cur3Th1sSh1t/Amsi-Bypass-Powershell",
+      "genres": [
+        "security"
+      ]
+    },
+    {
+      "fullName": "xaitax/Chrome-App-Bound-Encryption-Decryption",
+      "genres": [
+        "security",
+        "systems-rust-go-cpp"
+      ]
+    },
+    {
+      "fullName": "stripe/stripe-cli",
+      "genres": [
+        "cli-ides",
+        "systems-rust-go-cpp"
+      ]
+    },
+    {
+      "fullName": "csauvage/stripe-generator",
+      "genres": [
+        "cli-ides",
+        "typescript-javascript"
+      ]
+    },
+    {
+      "fullName": "Shaivpidadi/FreeRide",
+      "genres": [
+        "ai-agents",
+        "python"
+      ]
+    },
+    {
+      "fullName": "harmvanderheijden/diary",
+      "genres": [
+        "ai-agents",
+        "python"
+      ]
+    },
+    {
+      "fullName": "Kvadratni/speech-mcp",
+      "genres": [
+        "ai-agents",
+        "python"
+      ]
+    },
+    {
+      "fullName": "draftdev/startup-marketing-checklist",
+      "genres": [
+        "other"
+      ]
+    },
+    {
+      "fullName": "EdoStra/Marketing-for-Founders",
+      "genres": [
+        "other"
+      ]
+    },
+    {
+      "fullName": "mautic/mautic",
+      "genres": [
+        "other"
+      ]
+    },
+    {
+      "fullName": "coreyhaines31/marketingskills",
+      "genres": [
+        "ai-agents",
+        "typescript-javascript"
+      ]
+    },
+    {
+      "fullName": "vognik/maltego-telegram",
+      "genres": [
+        "osint-telegram",
+        "python"
+      ]
+    },
+    {
+      "fullName": "PowerShell/PowerShell",
+      "genres": [
+        "other"
+      ]
+    },
+    {
+      "fullName": "tauri-apps/window-vibrancy",
+      "genres": [
+        "other",
+        "systems-rust-go-cpp"
+      ]
+    },
+    {
+      "fullName": "tauri-apps/tauri-docs",
+      "genres": [
+        "other"
+      ]
+    },
+    {
+      "fullName": "pytauri/pytauri",
+      "genres": [
+        "other",
+        "systems-rust-go-cpp"
+      ]
+    },
+    {
+      "fullName": "tauri-apps/tauri-action",
+      "genres": [
+        "other",
+        "typescript-javascript"
+      ]
+    },
+    {
+      "fullName": "tauri-apps/plugins-workspace",
+      "genres": [
+        "other",
+        "systems-rust-go-cpp"
+      ]
+    },
+    {
+      "fullName": "caamer20/Telegram-Drive",
+      "genres": [
+        "osint-telegram",
+        "web-frontend",
+        "typescript-javascript"
+      ]
+    },
+    {
+      "fullName": "tauri-apps/awesome-tauri",
+      "genres": [
+        "awesome-lists"
+      ]
+    },
+    {
+      "fullName": "tw93/Pake",
+      "genres": [
+        "other",
+        "systems-rust-go-cpp"
+      ]
+    },
+    {
+      "fullName": "tauri-apps/tauri",
+      "genres": [
+        "mobile-android",
+        "web-frontend",
+        "systems-rust-go-cpp"
+      ]
+    },
+    {
+      "fullName": "mksglu/context-mode",
+      "genres": [
+        "ai-agents",
+        "typescript-javascript"
+      ]
+    },
+    {
+      "fullName": "tirth8205/code-review-graph",
+      "genres": [
+        "ai-agents",
+        "cli-ides",
+        "python"
+      ]
+    },
+    {
+      "fullName": "heygen-com/hyperframes",
+      "genres": [
+        "ai-agents",
+        "typescript-javascript"
+      ]
+    },
+    {
+      "fullName": "Panniantong/Agent-Reach",
+      "genres": [
+        "ai-agents",
+        "cli-ides",
+        "python"
+      ]
+    },
+    {
+      "fullName": "grll/mcpadapt",
+      "genres": [
+        "ai-agents",
+        "python"
+      ]
+    },
+    {
+      "fullName": "PrefectHQ/fastmcp",
+      "genres": [
+        "ai-agents",
+        "python"
+      ]
+    },
+    {
+      "fullName": "ComposioHQ/composio",
+      "genres": [
+        "ai-agents",
+        "typescript-javascript"
+      ]
+    },
+    {
+      "fullName": "patchy631/ai-engineering-hub",
+      "genres": [
+        "ai-agents",
+        "llm-models",
+        "data-ml"
+      ]
+    },
+    {
+      "fullName": "danny-avila/LibreChat",
+      "genres": [
+        "ai-agents",
+        "llm-models",
+        "typescript-javascript"
+      ]
+    },
+    {
+      "fullName": "sickn33/agentic-awesome-skills",
+      "genres": [
+        "awesome-lists",
+        "ai-agents",
+        "cli-ides",
+        "python"
+      ]
+    },
+    {
+      "fullName": "mudler/LocalAI",
+      "genres": [
+        "llm-models",
+        "systems-rust-go-cpp"
+      ]
+    },
+    {
+      "fullName": "MemPalace/mempalace",
+      "genres": [
+        "other",
+        "python"
+      ]
+    },
+    {
+      "fullName": "ComposioHQ/awesome-claude-skills",
+      "genres": [
+        "awesome-lists",
+        "ai-agents",
+        "python"
+      ]
+    },
+    {
+      "fullName": "affaan-m/ECC",
+      "genres": [
+        "ai-agents",
+        "security",
+        "cli-ides",
+        "typescript-javascript"
+      ]
+    },
+    {
+      "fullName": "jwardsmith/STARCHIVE",
+      "genres": [
+        "other",
+        "python"
+      ]
+    },
+    {
+      "fullName": "govolution/avet",
+      "genres": [
+        "other"
+      ]
+    },
+    {
+      "fullName": "CYB3RMX/Qu1cksc0pe",
+      "genres": [
+        "security"
+      ]
+    },
+    {
+      "fullName": "screetsec/TheFatRat",
+      "genres": [
+        "security",
+        "mobile-android",
+        "systems-rust-go-cpp"
+      ]
+    },
+    {
+      "fullName": "docker-mailserver/docker-mailserver",
+      "genres": [
+        "devops-selfhosted"
+      ]
+    },
+    {
+      "fullName": "IgorMundstein/WinMemoryCleaner",
+      "genres": [
+        "other"
+      ]
+    },
+    {
+      "fullName": "nuxt/image",
+      "genres": [
+        "web-frontend",
+        "typescript-javascript"
+      ]
+    },
+    {
+      "fullName": "twilio-labs/mcp",
+      "genres": [
+        "ai-agents",
+        "typescript-javascript"
+      ]
+    },
+    {
+      "fullName": "NicolaSpadari/nuxtor",
+      "genres": [
+        "web-frontend"
+      ]
+    },
+    {
+      "fullName": "sarathsaleem/grained",
+      "genres": [
+        "other",
+        "typescript-javascript"
+      ]
+    },
+    {
+      "fullName": "The-Osint-Toolbox/Privacy-Opt-Out",
+      "genres": [
+        "osint-telegram"
+      ]
+    },
+    {
+      "fullName": "justlovemaki/AIClient2API",
+      "genres": [
+        "ai-agents",
+        "llm-models",
+        "typescript-javascript"
+      ]
+    },
+    {
+      "fullName": "jwadow/kiro-gateway",
+      "genres": [
+        "ai-agents",
+        "cli-ides",
+        "python"
+      ]
+    },
+    {
+      "fullName": "leinelissen/aeon",
+      "genres": [
+        "other",
+        "typescript-javascript"
+      ]
+    },
+    {
+      "fullName": "zhanghai/Untracker",
+      "genres": [
+        "mobile-android"
+      ]
+    },
+    {
+      "fullName": "signalstickers/signalstickers",
+      "genres": [
+        "osint-telegram",
+        "typescript-javascript"
+      ]
+    },
+    {
+      "fullName": "signalapp/Signal-Server",
+      "genres": [
+        "osint-telegram",
+        "mobile-android"
+      ]
+    },
+    {
+      "fullName": "coleam00/hyperframes-ai-video-generation",
+      "genres": [
+        "other"
+      ]
+    },
+    {
+      "fullName": "coleam00/archon-idea-to-wo",
+      "genres": [
+        "other"
+      ]
+    },
+    {
+      "fullName": "dependency-check/DependencyCheck",
+      "genres": [
+        "security"
+      ]
+    },
+    {
+      "fullName": "An0nUD4Y/Evilginx-Phishing-Infra-Setup",
+      "genres": [
+        "security"
+      ]
+    },
+    {
+      "fullName": "smfahimbd/FB-Auto-Create",
+      "genres": [
+        "other",
+        "python"
+      ]
+    },
+    {
+      "fullName": "mohamed-ladjal-AI/auto_facebook_creator_v2",
+      "genres": [
+        "other",
+        "python"
+      ]
+    },
+    {
+      "fullName": "open-metadata/OpenMetadata",
+      "genres": [
+        "ai-agents",
+        "typescript-javascript"
+      ]
+    },
+    {
+      "fullName": "K-Dense-AI/scientific-agent-skills",
+      "genres": [
+        "ai-agents",
+        "cli-ides",
+        "python"
+      ]
+    },
+    {
+      "fullName": "nordsecgroup/Empire",
+      "genres": [
+        "ai-agents"
+      ]
+    },
+    {
+      "fullName": "nordsecgroup/python-pentesting",
+      "genres": [
+        "other"
+      ]
+    },
+    {
+      "fullName": "nordsecgroup/external_c2_framework",
+      "genres": [
+        "security"
+      ]
+    },
+    {
+      "fullName": "nordsecgroup/PENTESTING-BIBLE",
+      "genres": [
+        "other"
+      ]
+    },
+    {
+      "fullName": "nordsecgroup/python-digitalocean",
+      "genres": [
+        "other"
+      ]
+    },
+    {
+      "fullName": "nordsecgroup/CrackMapExec",
+      "genres": [
+        "other"
+      ]
+    },
+    {
+      "fullName": "nordsecgroup/TheFatRat",
+      "genres": [
+        "other"
+      ]
+    },
+    {
+      "fullName": "nordsecgroup/infostealer",
+      "genres": [
+        "security"
+      ]
+    },
+    {
+      "fullName": "nordsecgroup/dystopia-c2",
+      "genres": [
+        "security",
+        "osint-telegram"
+      ]
+    },
+    {
+      "fullName": "nordsecgroup/obsidian-osint-templates",
+      "genres": [
+        "osint-telegram"
+      ]
+    },
+    {
+      "fullName": "nordsecgroup/SharpShooter",
+      "genres": [
+        "security"
+      ]
+    },
+    {
+      "fullName": "nordsecgroup/RedTeaming-Tactics-and-Techniques",
+      "genres": [
+        "other"
+      ]
+    },
+    {
+      "fullName": "nordsecgroup/thebear",
+      "genres": [
+        "security"
+      ]
+    },
+    {
+      "fullName": "nordsecgroup/browser_cookie3",
+      "genres": [
+        "other"
+      ]
+    },
+    {
+      "fullName": "nordsecgroup/spiderfoot",
+      "genres": [
+        "security",
+        "osint-telegram"
+      ]
+    },
+    {
+      "fullName": "nordsecgroup/Photon",
+      "genres": [
+        "osint-telegram"
+      ]
+    },
+    {
+      "fullName": "nordsecgroup/BrowserSnatch",
+      "genres": [
+        "other"
+      ]
+    },
+    {
+      "fullName": "nordsecgroup/SpyDirWare",
+      "genres": [
+        "security"
+      ]
+    },
+    {
+      "fullName": "nordsecgroup/aixploit",
+      "genres": [
+        "security"
+      ]
+    },
+    {
+      "fullName": "nordsecgroup/osint_stuff_tool_collection",
+      "genres": [
+        "osint-telegram"
+      ]
+    },
+    {
+      "fullName": "nordsecgroup/MedusaC2",
+      "genres": [
+        "security"
+      ]
+    },
+    {
+      "fullName": "nordsecgroup/Telegram-OSINT",
+      "genres": [
+        "osint-telegram"
+      ]
+    },
+    {
+      "fullName": "nordsecgroup/Mirai-Source-Code",
+      "genres": [
+        "other"
+      ]
+    },
+    {
+      "fullName": "nordsecgroup/Scrapegraph-ai",
+      "genres": [
+        "osint-telegram"
+      ]
+    },
+    {
+      "fullName": "nordsecgroup/Stegano",
+      "genres": [
+        "other"
+      ]
+    },
+    {
+      "fullName": "nordsecgroup/LazyOwn",
+      "genres": [
+        "security"
+      ]
+    },
+    {
+      "fullName": "nordsecgroup/speech_recognition",
+      "genres": [
+        "other"
+      ]
+    },
+    {
+      "fullName": "nordsecgroup/github-mcp-server",
+      "genres": [
+        "ai-agents"
+      ]
+    },
+    {
+      "fullName": "nordsecgroup/python-telegram-bot",
+      "genres": [
+        "osint-telegram"
+      ]
+    },
+    {
+      "fullName": "nordsecgroup/Starkiller",
+      "genres": [
+        "web-frontend"
+      ]
+    },
+    {
+      "fullName": "Hillaryweak795/ScamPhish",
+      "genres": [
+        "security"
+      ]
+    },
+    {
+      "fullName": "phishdestroy/destroylist",
+      "genres": [
+        "security"
+      ]
+    },
+    {
+      "fullName": "chenjj/espoofer",
+      "genres": [
+        "security",
+        "python"
+      ]
+    },
+    {
+      "fullName": "digitalocean/digitalocean-mcp",
+      "genres": [
+        "ai-agents",
+        "typescript-javascript"
+      ]
+    },
+    {
+      "fullName": "passivebot/facebook-marketplace-scraper",
+      "genres": [
+        "osint-telegram",
+        "python"
+      ]
+    },
+    {
+      "fullName": "TheWation/PhpCookieStealer",
+      "genres": [
+        "other"
+      ]
+    },
+    {
+      "fullName": "mgeeky/PhishingPost",
+      "genres": [
+        "security"
+      ]
+    },
+    {
+      "fullName": "emmarktech/Evilginx3-Phishlets",
+      "genres": [
+        "security"
+      ]
+    },
+    {
+      "fullName": "rencora/evilginx3-phishlet-templates",
+      "genres": [
+        "other"
+      ]
+    },
+    {
+      "fullName": "digininja/CeWL",
+      "genres": [
+        "other"
+      ]
+    },
+    {
+      "fullName": "SaulBerrenson/BrowserStealer",
+      "genres": [
+        "other",
+        "systems-rust-go-cpp"
+      ]
+    },
+    {
+      "fullName": "trustedsec/LnkMeMaybe",
+      "genres": [
+        "other"
+      ]
+    },
+    {
+      "fullName": "florianwagnerdotme/phishermansAI",
+      "genres": [
+        "security",
+        "python"
+      ]
+    },
+    {
+      "fullName": "AustinPaulley/Linkedin-Scraper-and-Ai-Phishing-Email-Generator",
+      "genres": [
+        "llm-models",
+        "security",
+        "osint-telegram",
+        "python"
+      ]
+    },
+    {
+      "fullName": "Faluyi/Phish-Gpt",
+      "genres": [
+        "llm-models",
+        "security",
+        "python"
+      ]
+    },
+    {
+      "fullName": "optiv/OSINT_Encyclopedia",
+      "genres": [
+        "osint-telegram"
+      ]
+    },
+    {
+      "fullName": "optiv/KnockKnock",
+      "genres": [
+        "other",
+        "python"
+      ]
+    },
+    {
+      "fullName": "GONZOsint/geowifi",
+      "genres": [
+        "other",
+        "python"
+      ]
+    },
+    {
+      "fullName": "andreisss/Remote-DLL-Injection-with-Timer-based-Shellcode-Execution",
+      "genres": [
+        "other",
+        "systems-rust-go-cpp"
+      ]
+    },
+    {
+      "fullName": "hacksider/Deep-Live-Cam",
+      "genres": [
+        "other",
+        "python"
+      ]
+    },
+    {
+      "fullName": "biggerboy1stPeter/paqctl",
+      "genres": [
+        "other"
+      ]
+    },
+    {
+      "fullName": "biggerboy1stPeter/coruna",
+      "genres": [
+        "ai-agents"
+      ]
+    },
+    {
+      "fullName": "0xSteph/patient-zero",
+      "genres": [
+        "ai-agents",
+        "security",
+        "devops-selfhosted",
+        "typescript-javascript"
+      ]
+    },
+    {
+      "fullName": "0xSteph/pentest-ai",
+      "genres": [
+        "security",
+        "python"
+      ]
+    },
+    {
+      "fullName": "0xSteph/pentest-ai-agents",
+      "genres": [
+        "ai-agents",
+        "security"
+      ]
+    },
+    {
+      "fullName": "Ne0nd0g/merlin",
+      "genres": [
+        "ai-agents",
+        "systems-rust-go-cpp"
+      ]
+    },
+    {
+      "fullName": "biggerboy1stPeter/theharvester",
+      "genres": [
+        "osint-telegram"
+      ]
+    },
+    {
+      "fullName": "biggerboy1stPeter/social-engineer-toolkit",
+      "genres": [
+        "other"
+      ]
+    },
+    {
+      "fullName": "rix4uni/xssrecon",
+      "genres": [
+        "security",
+        "systems-rust-go-cpp"
+      ]
+    },
+    {
+      "fullName": "capture0x/XSS-LOADER",
+      "genres": [
+        "security",
+        "python"
+      ]
+    },
+    {
+      "fullName": "rohitg00/automaton",
+      "genres": [
+        "other"
+      ]
+    },
+    {
+      "fullName": "rohitg00/pro-workflow",
+      "genres": [
+        "ai-agents",
+        "typescript-javascript"
+      ]
+    },
+    {
+      "fullName": "blackwhite084/playwright-plus-python-mcp",
+      "genres": [
+        "ai-agents",
+        "python"
+      ]
+    },
+    {
+      "fullName": "lazymac2x/lazymac-mcp",
+      "genres": [
+        "ai-agents",
+        "cli-ides",
+        "typescript-javascript"
+      ]
+    },
+    {
+      "fullName": "roadwy/cve-search_mcp",
+      "genres": [
+        "ai-agents",
+        "security",
+        "python"
+      ]
+    },
+    {
+      "fullName": "nickpending/mcp-recon",
+      "genres": [
+        "ai-agents",
+        "llm-models",
+        "systems-rust-go-cpp"
+      ]
+    },
+    {
+      "fullName": "rohitg00/agentmemory",
+      "genres": [
+        "ai-agents",
+        "typescript-javascript"
+      ]
+    },
+    {
+      "fullName": "faker-ruby/faker",
+      "genres": [
+        "other"
+      ]
+    },
+    {
+      "fullName": "joke2k/faker",
+      "genres": [
+        "other",
+        "python"
+      ]
+    },
+    {
+      "fullName": "faker-js/faker",
+      "genres": [
+        "other",
+        "typescript-javascript"
+      ]
+    },
+    {
+      "fullName": "typicode/json-server",
+      "genres": [
+        "other",
+        "typescript-javascript"
+      ]
+    },
+    {
+      "fullName": "QianyanTech/Image-Downloader",
+      "genres": [
+        "other",
+        "python"
+      ]
+    },
+    {
+      "fullName": "qsniyg/maxurl",
+      "genres": [
+        "other",
+        "typescript-javascript"
+      ]
+    },
+    {
+      "fullName": "Wanderson-Magalhaes/PyBlackBox_Qt_Widgets_PySide6_Or_PyQt6_v1.0.0",
+      "genres": [
+        "other",
+        "python"
+      ]
+    },
+    {
+      "fullName": "seanwu1105/vscode-qt-for-python",
+      "genres": [
+        "cli-ides",
+        "typescript-javascript"
+      ]
+    },
+    {
+      "fullName": "Satanarious/TranslucentFlyoutsConfig",
+      "genres": [
+        "other",
+        "python"
+      ]
+    },
+    {
+      "fullName": "ChinaIceF/PyQt-SiliconUI",
+      "genres": [
+        "other",
+        "python"
+      ]
+    },
+    {
+      "fullName": "pythonguis/pythonguis-examples",
+      "genres": [
+        "other",
+        "python"
+      ]
+    },
+    {
+      "fullName": "5yutan5/PyQtDarkTheme",
+      "genres": [
+        "other",
+        "python"
+      ]
+    },
+    {
+      "fullName": "zhiyiYo/PyQt-Fluent-Widgets",
+      "genres": [
+        "other",
+        "python"
+      ]
+    },
+    {
+      "fullName": "pipeworx-io/windsurf-plugin",
+      "genres": [
+        "ai-agents",
+        "cli-ides"
+      ]
+    },
+    {
+      "fullName": "yazanbaker94/AntiGravity-AutoAccept",
+      "genres": [
+        "other",
+        "typescript-javascript"
+      ]
+    },
+    {
+      "fullName": "qaisarafridi/Red-Teaming-",
+      "genres": [
+        "other"
+      ]
+    },
+    {
+      "fullName": "PhishyAlice/awesome-phishing",
+      "genres": [
+        "awesome-lists",
+        "security"
+      ]
+    },
+    {
+      "fullName": "Greenwolf/social_attacker",
+      "genres": [
+        "security",
+        "osint-telegram",
+        "python"
+      ]
+    },
+    {
+      "fullName": "mandiant/PwnAuth",
+      "genres": [
+        "other",
+        "python"
+      ]
+    },
+    {
+      "fullName": "ahmetdrak/drakben",
+      "genres": [
+        "ai-agents",
+        "llm-models",
+        "python"
+      ]
+    },
+    {
+      "fullName": "oclero/qlementine",
+      "genres": [
+        "other",
+        "systems-rust-go-cpp"
+      ]
+    },
+    {
+      "fullName": "stillbigjosh/Neo",
+      "genres": [
+        "other",
+        "python"
+      ]
+    },
+    {
+      "fullName": "m7rick/Havoc-DLLHijack",
+      "genres": [
+        "other",
+        "python"
+      ]
+    },
+    {
+      "fullName": "SpecterOps/BloodHound",
+      "genres": [
+        "other",
+        "systems-rust-go-cpp"
+      ]
+    },
+    {
+      "fullName": "SpecterOps/BloodHound-Legacy",
+      "genres": [
+        "other"
+      ]
+    },
+    {
+      "fullName": "dirkjanm/BloodHound.py",
+      "genres": [
+        "other",
+        "python"
+      ]
+    },
+    {
+      "fullName": "ParrotSec/shellter",
+      "genres": [
+        "other"
+      ]
+    },
+    {
+      "fullName": "Cipher7/ChaiLdr",
+      "genres": [
+        "security",
+        "systems-rust-go-cpp"
+      ]
+    },
+    {
+      "fullName": "m7rick/GoDhijacking",
+      "genres": [
+        "security"
+      ]
+    },
+    {
+      "fullName": "cloudsecnetwork/phishintel",
+      "genres": [
+        "security",
+        "typescript-javascript"
+      ]
+    },
+    {
+      "fullName": "zehm/sendEmail",
+      "genres": [
+        "learning"
+      ]
+    },
+    {
+      "fullName": "eperdieu/offensive-security-labs",
+      "genres": [
+        "security",
+        "osint-telegram"
+      ]
+    },
+    {
+      "fullName": "Onryx/BSD-Social-Engineering-Detection1",
+      "genres": [
+        "other",
+        "python"
+      ]
+    },
+    {
+      "fullName": "Quantum-Software-Development/fii-investor-intelligence-platform",
+      "genres": [
+        "other"
+      ]
+    },
+    {
+      "fullName": "blackcat568/CyberSecurityAndSocialEngineering",
+      "genres": [
+        "security"
+      ]
+    },
+    {
+      "fullName": "sami-salloum/parasita",
+      "genres": [
+        "osint-telegram",
+        "python"
+      ]
+    },
+    {
+      "fullName": "Zeno-ai/ngl-core-audit",
+      "genres": [
+        "security",
+        "typescript-javascript"
+      ]
+    },
+    {
+      "fullName": "Raikia/UhOh365",
+      "genres": [
+        "other",
+        "python"
+      ]
+    },
+    {
+      "fullName": "TryCatchHCF/Cloakify",
+      "genres": [
+        "other",
+        "python"
+      ]
+    },
+    {
+      "fullName": "sevagas/macro_pack",
+      "genres": [
+        "security",
+        "python"
+      ]
+    },
+    {
+      "fullName": "giuliacassara/awesome-social-engineering",
+      "genres": [
+        "awesome-lists"
+      ]
+    },
+    {
+      "fullName": "ultrasecurity/Storm-Breaker",
+      "genres": [
+        "other"
+      ]
+    },
+    {
+      "fullName": "Maldev-Academy/3LayersPersistence",
+      "genres": [
+        "other",
+        "systems-rust-go-cpp"
+      ]
+    },
+    {
+      "fullName": "CaptMag/MalDev",
+      "genres": [
+        "security",
+        "systems-rust-go-cpp"
+      ]
+    },
+    {
+      "fullName": "LongWayHomie/PolyEngine",
+      "genres": [
+        "security",
+        "systems-rust-go-cpp"
+      ]
+    },
+    {
+      "fullName": "Print3M/ByteCaster",
+      "genres": [
+        "security",
+        "systems-rust-go-cpp"
+      ]
+    },
+    {
+      "fullName": "vari-sh/RedTeamGrimoire",
+      "genres": [
+        "security",
+        "systems-rust-go-cpp"
+      ]
+    },
+    {
+      "fullName": "CodeXTF2/maldev-links",
+      "genres": [
+        "security",
+        "python"
+      ]
+    },
+    {
+      "fullName": "fennybz/Detecting-Phishing-Attack-using-ML-DL-Models",
+      "genres": [
+        "security",
+        "data-ml",
+        "python"
+      ]
+    },
+    {
+      "fullName": "phat9343/ZPhisher-Python",
+      "genres": [
+        "security",
+        "python"
+      ]
+    },
+    {
+      "fullName": "spider863644/Mailer",
+      "genres": [
+        "security",
+        "osint-telegram",
+        "python"
+      ]
+    },
+    {
+      "fullName": "thalesgroup-cert/suspicious",
+      "genres": [
+        "security",
+        "python"
+      ]
+    },
+    {
+      "fullName": "BiZken/PhishMailer",
+      "genres": [
+        "security",
+        "python"
+      ]
+    },
+    {
+      "fullName": "elceef/dnstwist",
+      "genres": [
+        "security",
+        "python"
+      ]
+    },
+    {
+      "fullName": "yeyintminthuhtut/Awesome-Red-Teaming",
+      "genres": [
+        "awesome-lists"
+      ]
+    },
+    {
+      "fullName": "hagezi/dns-blocklists",
+      "genres": [
+        "other"
+      ]
+    },
+    {
+      "fullName": "Walkoud/raidbotdiscord",
+      "genres": [
+        "osint-telegram",
+        "typescript-javascript"
+      ]
+    },
+    {
+      "fullName": "Merubokkusu/discord-spam-bots",
+      "genres": [
+        "osint-telegram",
+        "python"
+      ]
+    },
+    {
+      "fullName": "hackirby/skuld",
+      "genres": [
+        "osint-telegram",
+        "systems-rust-go-cpp"
+      ]
+    },
+    {
+      "fullName": "Ruby570bocadito/Wormy-ML-Network-Worm",
+      "genres": [
+        "security",
+        "python"
+      ]
+    },
+    {
+      "fullName": "Art-Fakt/EvilPy",
+      "genres": [
+        "ai-agents",
+        "security",
+        "python"
+      ]
+    },
+    {
+      "fullName": "Art-Fakt/Ragnarf",
+      "genres": [
+        "security",
+        "python"
+      ]
+    },
+    {
+      "fullName": "Art-Fakt/redamon",
+      "genres": [
+        "ai-agents",
+        "security",
+        "python"
+      ]
+    },
+    {
+      "fullName": "Art-Fakt/ai_osint",
+      "genres": [
+        "ai-agents",
+        "llm-models",
+        "osint-telegram"
+      ]
+    },
+    {
+      "fullName": "OffensiveBrute/Offensive-AI-Agent-Prompts",
+      "genres": [
+        "ai-agents",
+        "cli-ides"
+      ]
+    },
+    {
+      "fullName": "OffensiveBrute/APTs-Adversary-Simulation",
+      "genres": [
+        "security"
+      ]
+    },
+    {
+      "fullName": "OffensiveBrute/Awesome-OSINT-For-Everything",
+      "genres": [
+        "awesome-lists",
+        "security",
+        "osint-telegram"
+      ]
+    },
+    {
+      "fullName": "OffensiveBrute/AV-EDR-Evasion-List",
+      "genres": [
+        "security"
+      ]
+    },
+    {
+      "fullName": "JM00NJ/reverse_connection",
+      "genres": [
+        "other",
+        "python"
+      ]
+    },
+    {
+      "fullName": "JM00NJ/Phantom-Evasion-Loader",
+      "genres": [
+        "other"
+      ]
+    },
+    {
+      "fullName": "JM00NJ/ICMP-Ghost-A-Fileless-x64-Assembly-C2-Agent",
+      "genres": [
+        "ai-agents",
+        "security"
+      ]
+    },
+    {
+      "fullName": "webpro255/awesome-ai-agent-attacks",
+      "genres": [
+        "awesome-lists",
+        "ai-agents",
+        "security"
+      ]
+    },
+    {
+      "fullName": "matheusht/redthread",
+      "genres": [
+        "llm-models",
+        "security",
+        "python"
+      ]
+    },
+    {
+      "fullName": "dan1t0/gophish-mcp",
+      "genres": [
+        "ai-agents",
+        "security",
+        "python"
+      ]
+    },
+    {
+      "fullName": "bradsjm/mail-smtp-mcp-rs",
+      "genres": [
+        "ai-agents",
+        "systems-rust-go-cpp"
+      ]
+    },
+    {
+      "fullName": "ibrahimsaleem/PentestThinkingMCP",
+      "genres": [
+        "ai-agents",
+        "security",
+        "typescript-javascript"
+      ]
+    },
+    {
+      "fullName": "fahadBSTech/mcp-gmail-sender",
+      "genres": [
+        "ai-agents",
+        "typescript-javascript"
+      ]
+    },
+    {
+      "fullName": "rfunix/tengu",
+      "genres": [
+        "ai-agents",
+        "python"
+      ]
+    },
+    {
+      "fullName": "himanshusanecha/mcp-osint-server",
+      "genres": [
+        "ai-agents",
+        "osint-telegram",
+        "python"
+      ]
+    },
+    {
+      "fullName": "jae-jae/fetcher-mcp",
+      "genres": [
+        "ai-agents",
+        "typescript-javascript"
+      ]
+    },
+    {
+      "fullName": "a-bonus/google-docs-mcp",
+      "genres": [
+        "ai-agents",
+        "typescript-javascript"
+      ]
+    },
+    {
+      "fullName": "jerry-ai-dev/MODULAR-RAG-MCP-SERVER",
+      "genres": [
+        "ai-agents",
+        "python"
+      ]
+    },
+    {
+      "fullName": "GongRzhe/Office-PowerPoint-MCP-Server",
+      "genres": [
+        "ai-agents",
+        "python"
+      ]
+    },
+    {
+      "fullName": "zcaceres/fetch-mcp",
+      "genres": [
+        "ai-agents",
+        "typescript-javascript"
+      ]
+    },
+    {
+      "fullName": "Automattic/wordpress-mcp",
+      "genres": [
+        "ai-agents"
+      ]
+    },
+    {
+      "fullName": "openags/paper-search-mcp",
+      "genres": [
+        "ai-agents",
+        "cli-ides",
+        "python"
+      ]
+    },
+    {
+      "fullName": "southleft/figma-console-mcp",
+      "genres": [
+        "ai-agents",
+        "typescript-javascript"
+      ]
+    },
+    {
+      "fullName": "GongRzhe/Office-Word-MCP-Server",
+      "genres": [
+        "ai-agents",
+        "python"
+      ]
+    },
+    {
+      "fullName": "Flux159/mcp-server-kubernetes",
+      "genres": [
+        "ai-agents",
+        "devops-selfhosted",
+        "typescript-javascript"
+      ]
+    },
+    {
+      "fullName": "Jpisnice/shadcn-ui-mcp-server",
+      "genres": [
+        "ai-agents",
+        "llm-models",
+        "mobile-android",
+        "web-frontend",
+        "typescript-javascript"
+      ]
+    },
+    {
+      "fullName": "supermemoryai/supermemory-mcp",
+      "genres": [
+        "ai-agents",
+        "llm-models",
+        "typescript-javascript"
+      ]
+    },
+    {
+      "fullName": "GongRzhe/Gmail-MCP-Server",
+      "genres": [
+        "ai-agents",
+        "typescript-javascript"
+      ]
+    },
+    {
+      "fullName": "coleam00/mcp-crawl4ai-rag",
+      "genres": [
+        "ai-agents",
+        "python"
+      ]
+    },
+    {
+      "fullName": "punkpeye/mcp-remote",
+      "genres": [
+        "ai-agents",
+        "typescript-javascript"
+      ]
+    },
+    {
+      "fullName": "containers/kubernetes-mcp-server",
+      "genres": [
+        "ai-agents",
+        "devops-selfhosted",
+        "systems-rust-go-cpp"
+      ]
+    },
+    {
+      "fullName": "stickerdaniel/linkedin-mcp-server",
+      "genres": [
+        "ai-agents",
+        "python"
+      ]
+    },
+    {
+      "fullName": "zcaceres/markdownify-mcp",
+      "genres": [
+        "ai-agents",
+        "typescript-javascript"
+      ]
+    },
+    {
+      "fullName": "Pimzino/spec-workflow-mcp",
+      "genres": [
+        "ai-agents",
+        "cli-ides",
+        "typescript-javascript"
+      ]
+    },
+    {
+      "fullName": "Minidoracat/mcp-feedback-enhanced",
+      "genres": [
+        "ai-agents",
+        "typescript-javascript"
+      ]
+    },
+    {
+      "fullName": "taylorwilsdon/google_workspace_mcp",
+      "genres": [
+        "ai-agents",
+        "cli-ides",
+        "python"
+      ]
+    },
+    {
+      "fullName": "knowsuchagency/mcp2cli",
+      "genres": [
+        "ai-agents",
+        "cli-ides",
+        "python"
+      ]
+    },
+    {
+      "fullName": "cursor/community-plugins",
+      "genres": [
+        "cli-ides",
+        "typescript-javascript"
+      ]
+    },
+    {
+      "fullName": "AgentDeskAI/browser-tools-mcp",
+      "genres": [
+        "ai-agents",
+        "cli-ides",
+        "typescript-javascript"
+      ]
+    },
+    {
+      "fullName": "wonderwhy-er/DesktopCommanderMCP",
+      "genres": [
+        "ai-agents",
+        "typescript-javascript"
+      ]
+    },
+    {
+      "fullName": "fullselfbrowsing/FSB",
+      "genres": [
+        "ai-agents",
+        "typescript-javascript"
+      ]
+    },
+    {
+      "fullName": "idosal/git-mcp",
+      "genres": [
+        "ai-agents",
+        "typescript-javascript"
+      ]
+    },
+    {
+      "fullName": "lastmile-ai/mcp-agent",
+      "genres": [
+        "ai-agents",
+        "python"
+      ]
+    },
+    {
+      "fullName": "github/github-mcp-server",
+      "genres": [
+        "ai-agents",
+        "systems-rust-go-cpp"
+      ]
+    },
+    {
+      "fullName": "microsoft/playwright-mcp",
+      "genres": [
+        "ai-agents",
+        "typescript-javascript"
+      ]
+    },
+    {
+      "fullName": "MicrosoftDocs/mcp",
+      "genres": [
+        "ai-agents",
+        "llm-models",
+        "cli-ides",
+        "learning",
+        "typescript-javascript"
+      ]
+    },
+    {
+      "fullName": "ArthurBrussee/brush",
+      "genres": [
+        "other",
+        "systems-rust-go-cpp"
+      ]
+    },
+    {
+      "fullName": "PolarGoose/ShowWhatProcessLocksFile",
+      "genres": [
+        "other"
+      ]
+    },
+    {
+      "fullName": "cyberagiinc/DevDocs",
+      "genres": [
+        "ai-agents",
+        "cli-ides",
+        "typescript-javascript"
+      ]
+    },
+    {
+      "fullName": "dwgx/WindsurfAPI",
+      "genres": [
+        "ai-agents",
+        "llm-models",
+        "cli-ides",
+        "typescript-javascript"
+      ]
+    },
+    {
+      "fullName": "intellectronica/ruler",
+      "genres": [
+        "ai-agents",
+        "typescript-javascript"
+      ]
+    },
+    {
+      "fullName": "saltandsilicon/game-theorist",
+      "genres": [
+        "ai-agents",
+        "cli-ides",
+        "typescript-javascript"
+      ]
+    },
+    {
+      "fullName": "tadata-org/fastapi_mcp",
+      "genres": [
+        "ai-agents",
+        "python"
+      ]
+    },
+    {
+      "fullName": "eyaltoledano/claude-task-master",
+      "genres": [
+        "ai-agents",
+        "cli-ides",
+        "typescript-javascript"
+      ]
+    },
+    {
+      "fullName": "1046prt/devxpython",
+      "genres": [
+        "other",
+        "python"
+      ]
+    },
+    {
+      "fullName": "raga-ai-hub/RagaAI-Catalyst",
+      "genres": [
+        "ai-agents",
+        "llm-models",
+        "python"
+      ]
+    },
+    {
+      "fullName": "comet-ml/opik",
+      "genres": [
+        "ai-agents",
+        "llm-models",
+        "python"
+      ]
+    },
+    {
+      "fullName": "thomasxm/InsightEngineering",
+      "genres": [
+        "other"
+      ]
+    },
+    {
+      "fullName": "thomasxm/hexstrike-ai",
+      "genres": [
+        "ai-agents",
+        "llm-models",
+        "security"
+      ]
+    },
+    {
+      "fullName": "thomasxm/CrowdSentinels-AI-MCP",
+      "genres": [
+        "ai-agents",
+        "python"
+      ]
+    },
+    {
+      "fullName": "thomasxm/BOAZ_beta",
+      "genres": [
+        "other",
+        "systems-rust-go-cpp"
+      ]
+    },
+    {
+      "fullName": "AsamK/signal-call-tunnel",
+      "genres": [
+        "osint-telegram",
+        "python"
+      ]
+    },
+    {
+      "fullName": "s0md3v/Photon",
+      "genres": [
+        "osint-telegram",
+        "python"
+      ]
+    },
+    {
+      "fullName": "jivoi/awesome-osint",
+      "genres": [
+        "awesome-lists",
+        "osint-telegram"
+      ]
+    },
+    {
+      "fullName": "chvancooten/maldev-for-dummies",
+      "genres": [
+        "security"
+      ]
+    },
+    {
+      "fullName": "Rapptz/discord.py",
+      "genres": [
+        "osint-telegram",
+        "python"
+      ]
+    },
+    {
+      "fullName": "discordjs/discord.js",
+      "genres": [
+        "osint-telegram",
+        "typescript-javascript"
+      ]
+    },
+    {
+      "fullName": "influxdata/telegraf",
+      "genres": [
+        "ai-agents",
+        "systems-rust-go-cpp"
+      ]
+    },
+    {
+      "fullName": "paralax/awesome-honeypots",
+      "genres": [
+        "awesome-lists",
+        "python"
+      ]
+    },
+    {
+      "fullName": "kgretzky/pwndrop",
+      "genres": [
+        "other",
+        "typescript-javascript"
+      ]
+    },
+    {
+      "fullName": "terjanq/Tiny-XSS-Payloads",
+      "genres": [
+        "other",
+        "typescript-javascript"
+      ]
+    },
+    {
+      "fullName": "leebaird/discover",
+      "genres": [
+        "security"
+      ]
+    },
+    {
+      "fullName": "foospidy/payloads",
+      "genres": [
+        "security"
+      ]
+    },
+    {
+      "fullName": "arismelachroinos/lscript",
+      "genres": [
+        "learning"
+      ]
+    },
+    {
+      "fullName": "s0md3v/AwesomeXSS",
+      "genres": [
+        "awesome-lists",
+        "typescript-javascript"
+      ]
+    },
+    {
+      "fullName": "swisskyrepo/PayloadsAllTheThings",
+      "genres": [
+        "security",
+        "python"
+      ]
+    },
+    {
+      "fullName": "perrypixel/10x-Tool-Calls",
+      "genres": [
+        "other",
+        "python"
+      ]
+    },
+    {
+      "fullName": "Manavarya09/design-extract",
+      "genres": [
+        "ai-agents",
+        "mobile-android",
+        "web-frontend",
+        "cli-ides"
+      ]
+    },
+    {
+      "fullName": "grapeot/devin.cursorrules",
+      "genres": [
+        "cli-ides",
+        "python"
+      ]
+    },
+    {
+      "fullName": "dontriskit/awesome-ai-system-prompts",
+      "genres": [
+        "awesome-lists",
+        "ai-agents",
+        "cli-ides",
+        "typescript-javascript"
+      ]
+    },
+    {
+      "fullName": "Quobis/action-owasp-dependecy-track-check",
+      "genres": [
+        "security",
+        "devops-selfhosted"
+      ]
+    },
+    {
+      "fullName": "Nekmo/pip-rating",
+      "genres": [
+        "other",
+        "python"
+      ]
+    },
+    {
+      "fullName": "rshipp/awesome-malware-analysis",
+      "genres": [
+        "awesome-lists",
+        "security"
+      ]
+    },
+    {
+      "fullName": "wifiphisher/wifiphisher",
+      "genres": [
+        "other",
+        "python"
+      ]
+    },
+    {
+      "fullName": "vxunderground/MalwareSourceCode",
+      "genres": [
+        "security"
+      ]
+    },
+    {
+      "fullName": "x64dbg/x64dbg",
+      "genres": [
+        "security",
+        "systems-rust-go-cpp"
+      ]
+    },
+    {
+      "fullName": "BC-SECURITY/Starkiller",
+      "genres": [
+        "security",
+        "web-frontend"
+      ]
+    },
+    {
+      "fullName": "S3N4T0R-0X0/APTs-Adversary-Simulation",
+      "genres": [
+        "security",
+        "systems-rust-go-cpp"
+      ]
+    },
+    {
+      "fullName": "D00Movenok/BounceBack",
+      "genres": [
+        "security",
+        "systems-rust-go-cpp"
+      ]
+    },
+    {
+      "fullName": "RedSiege/C2concealer",
+      "genres": [
+        "security",
+        "python"
+      ]
+    },
+    {
+      "fullName": "haxmcdev/Discord-Boost-Tools",
+      "genres": [
+        "osint-telegram",
+        "systems-rust-go-cpp"
+      ]
+    },
+    {
+      "fullName": "HavocFramework/Havoc",
+      "genres": [
+        "other",
+        "systems-rust-go-cpp"
+      ]
+    },
+    {
+      "fullName": "spyboy-productions/ObfuXtreme",
+      "genres": [
+        "security",
+        "python"
+      ]
+    },
+    {
+      "fullName": "spyboy-productions/Valid8Proxy",
+      "genres": [
+        "other",
+        "python"
+      ]
+    },
+    {
+      "fullName": "spyboy-productions/Facad1ng",
+      "genres": [
+        "security",
+        "python"
+      ]
+    },
+    {
+      "fullName": "HyNetworks/hysteria",
+      "genres": [
+        "other",
+        "systems-rust-go-cpp"
+      ]
+    },
+    {
+      "fullName": "nitin25J/Expense-Analyzer",
+      "genres": [
+        "other",
+        "python"
+      ]
+    },
+    {
+      "fullName": "NicolasHug/Surprise",
+      "genres": [
+        "data-ml",
+        "python"
+      ]
+    },
+    {
+      "fullName": "sethblack/python-seo-analyzer",
+      "genres": [
+        "other",
+        "python"
+      ]
+    },
+    {
+      "fullName": "microsoft/AttackSurfaceAnalyzer",
+      "genres": [
+        "security"
+      ]
+    },
+    {
+      "fullName": "x0rz/tweets_analyzer",
+      "genres": [
+        "osint-telegram",
+        "python"
+      ]
+    },
+    {
+      "fullName": "trufflesecurity/trufflehog",
+      "genres": [
+        "other",
+        "systems-rust-go-cpp"
+      ]
+    },
+    {
+      "fullName": "qeeqbox/social-analyzer",
+      "genres": [
+        "osint-telegram",
+        "cli-ides",
+        "typescript-javascript"
+      ]
+    },
+    {
+      "fullName": "mandiant/flare-vm",
+      "genres": [
+        "other"
+      ]
+    },
+    {
+      "fullName": "d-Raco/android-malware-source-code-samples",
+      "genres": [
+        "security",
+        "mobile-android",
+        "data-ml"
+      ]
+    },
+    {
+      "fullName": "enginestein/Virus-Collection",
+      "genres": [
+        "other",
+        "systems-rust-go-cpp"
+      ]
+    },
+    {
+      "fullName": "kh4sh3i/Ransomware-Samples",
+      "genres": [
+        "security"
+      ]
+    },
+    {
+      "fullName": "Hildaboo/BabukRansomwareSourceCode",
+      "genres": [
+        "security",
+        "systems-rust-go-cpp"
+      ]
+    },
+    {
+      "fullName": "codesiddhant/Jasmin-Ransomware",
+      "genres": [
+        "security"
+      ]
+    },
+    {
+      "fullName": "mitchellkrogza/The-Big-List-of-Hacked-Malware-Web-Sites",
+      "genres": [
+        "security"
+      ]
+    },
+    {
+      "fullName": "ecstatic-nobel/OSweep",
+      "genres": [
+        "osint-telegram",
+        "python"
+      ]
+    },
+    {
+      "fullName": "JMousqueton/ransomware.live",
+      "genres": [
+        "security",
+        "python"
+      ]
+    },
+    {
+      "fullName": "deadPix3l/CryptSky",
+      "genres": [
+        "security",
+        "python"
+      ]
+    },
+    {
+      "fullName": "ThreatLabz/ransomware_notes",
+      "genres": [
+        "security"
+      ]
+    },
+    {
+      "fullName": "droidefense/engine",
+      "genres": [
+        "security",
+        "mobile-android"
+      ]
+    },
+    {
+      "fullName": "JoelGMSec/PSRansom",
+      "genres": [
+        "security"
+      ]
+    },
+    {
+      "fullName": "RansomLook/RansomLook",
+      "genres": [
+        "security",
+        "python"
+      ]
+    },
+    {
+      "fullName": "dmdhrumilmistry/pyhtools",
+      "genres": [
+        "security",
+        "python"
+      ]
+    },
+    {
+      "fullName": "alvin-tosh/Malware-Exhibit",
+      "genres": [
+        "security"
+      ]
+    },
+    {
+      "fullName": "BushidoUK/Ransomware-Tool-Matrix",
+      "genres": [
+        "security"
+      ]
+    },
+    {
+      "fullName": "kaixinol/Ransomware-Maker.cs",
+      "genres": [
+        "security"
+      ]
+    },
+    {
+      "fullName": "hackthedev/teardrop",
+      "genres": [
+        "security"
+      ]
+    },
+    {
+      "fullName": "Cactusinhand/mcp_server_notify",
+      "genres": [
+        "ai-agents",
+        "python"
+      ]
+    },
+    {
+      "fullName": "Zen4-bit/Proxima",
+      "genres": [
+        "ai-agents",
+        "typescript-javascript"
+      ]
+    },
+    {
+      "fullName": "blackarrowsec/redteam-research",
+      "genres": [
+        "security",
+        "systems-rust-go-cpp"
+      ]
+    },
+    {
+      "fullName": "winsiderss/systeminformer",
+      "genres": [
+        "security",
+        "systems-rust-go-cpp"
+      ]
+    },
+    {
+      "fullName": "noob-mukesh/MukeshRobot",
+      "genres": [
+        "osint-telegram",
+        "python"
+      ]
+    },
+    {
+      "fullName": "ZAYOTEM/malware-analysis-reports",
+      "genres": [
+        "security"
+      ]
+    },
+    {
+      "fullName": "GreatScottyMac/cascade-memory-bank",
+      "genres": [
+        "cli-ides"
+      ]
+    },
+    {
+      "fullName": "GutMutCode/mcp-server-cloudflare",
+      "genres": [
+        "ai-agents",
+        "cli-ides",
+        "typescript-javascript"
+      ]
+    },
+    {
+      "fullName": "Textualize/rich",
+      "genres": [
+        "other",
+        "python"
+      ]
+    },
+    {
+      "fullName": "useme-com/revolut-python",
+      "genres": [
+        "other",
+        "python"
+      ]
+    },
+    {
+      "fullName": "decolua/9router",
+      "genres": [
+        "ai-agents",
+        "llm-models",
+        "cli-ides",
+        "typescript-javascript"
+      ]
+    },
+    {
+      "fullName": "masterking32/MasterDnsVPN",
+      "genres": [
+        "security",
+        "systems-rust-go-cpp"
+      ]
+    },
+    {
+      "fullName": "CloakHQ/CloakBrowser",
+      "genres": [
+        "other",
+        "python"
+      ]
+    },
+    {
+      "fullName": "DeadBread76/Discord-server-joiner",
+      "genres": [
+        "osint-telegram",
+        "python"
+      ]
+    },
+    {
+      "fullName": "jordanburke/reddit-mcp-server",
+      "genres": [
+        "ai-agents",
+        "typescript-javascript"
+      ]
+    },
+    {
+      "fullName": "antvis/mcp-server-chart",
+      "genres": [
+        "ai-agents",
+        "typescript-javascript"
+      ]
+    },
+    {
+      "fullName": "python/mypy",
+      "genres": [
+        "other",
+        "python"
+      ]
+    },
+    {
+      "fullName": "firecrawl/firecrawl-mcp-server",
+      "genres": [
+        "ai-agents",
+        "llm-models",
+        "osint-telegram",
+        "cli-ides",
+        "typescript-javascript"
+      ]
+    },
+    {
+      "fullName": "hellzerg/optimizer",
+      "genres": [
+        "other"
+      ]
+    },
+    {
+      "fullName": "FantomaSkaRus1/telegram-bot-mcp",
+      "genres": [
+        "ai-agents",
+        "osint-telegram",
+        "typescript-javascript"
+      ]
+    },
+    {
+      "fullName": "samson-art/transcriptor-mcp",
+      "genres": [
+        "ai-agents",
+        "cli-ides",
+        "typescript-javascript"
+      ]
+    },
+    {
+      "fullName": "Custodia-Admin/pagebolt-mcp",
+      "genres": [
+        "ai-agents",
+        "typescript-javascript"
+      ]
+    },
+    {
+      "fullName": "activepieces/activepieces",
+      "genres": [
+        "ai-agents",
+        "typescript-javascript"
+      ]
+    },
+    {
+      "fullName": "punkpeye/awesome-mcp-servers",
+      "genres": [
+        "awesome-lists",
+        "ai-agents"
+      ]
+    },
+    {
+      "fullName": "Raphire/Win11Debloat",
+      "genres": [
+        "other"
+      ]
+    },
+    {
+      "fullName": "itrimble/image-viewer-mcp",
+      "genres": [
+        "ai-agents",
+        "typescript-javascript"
+      ]
+    },
+    {
+      "fullName": "projectstorm/react-diagrams",
+      "genres": [
+        "web-frontend",
+        "typescript-javascript"
+      ]
+    },
+    {
+      "fullName": "clementwzk/Discord-Tools",
+      "genres": [
+        "osint-telegram",
+        "cli-ides",
+        "typescript-javascript"
+      ]
+    },
+    {
+      "fullName": "IAmBlackHacker/Facebook-BruteForce",
+      "genres": [
+        "security",
+        "python"
+      ]
+    },
+    {
+      "fullName": "hungtraan/FacebookBot",
+      "genres": [
+        "other",
+        "typescript-javascript"
+      ]
+    },
+    {
+      "fullName": "kevinzg/facebook-scraper",
+      "genres": [
+        "osint-telegram",
+        "python"
+      ]
+    },
+    {
+      "fullName": "ebrasha/abdal-proxy-hub",
+      "genres": [
+        "awesome-lists",
+        "osint-telegram"
+      ]
+    },
+    {
+      "fullName": "jinzcdev/markmap-mcp-server",
+      "genres": [
+        "ai-agents",
+        "typescript-javascript"
+      ]
+    },
+    {
+      "fullName": "HagaiHen/facebook-mcp-server",
+      "genres": [
+        "ai-agents",
+        "python"
+      ]
+    },
+    {
+      "fullName": "scrapoxy/scraping-workshop",
+      "genres": [
+        "osint-telegram",
+        "python"
+      ]
+    },
+    {
+      "fullName": "hanweg/mcp-discord-raw",
+      "genres": [
+        "ai-agents",
+        "osint-telegram",
+        "python"
+      ]
+    },
+    {
+      "fullName": "chatanywhere/GPT_API_free",
+      "genres": [
+        "llm-models"
+      ]
+    },
+    {
+      "fullName": "freecodexyz/free-code",
+      "genres": [
+        "ai-agents",
+        "security",
+        "typescript-javascript"
+      ]
+    },
+    {
+      "fullName": "mantvydasb/RedTeaming-Tactics-and-Techniques",
+      "genres": [
+        "other"
+      ]
+    },
+    {
+      "fullName": "NationalSecurityAgency/ghidra",
+      "genres": [
+        "other"
+      ]
+    },
+    {
+      "fullName": "Augani/openreel-video",
+      "genres": [
+        "cli-ides",
+        "typescript-javascript"
+      ]
+    },
+    {
+      "fullName": "LearningCircuit/local-deep-research",
+      "genres": [
+        "llm-models",
+        "python"
+      ]
+    },
+    {
+      "fullName": "anthropics/financial-services",
+      "genres": [
+        "other",
+        "python"
+      ]
+    },
+    {
+      "fullName": "coddingtonbear/obsidian-local-rest-api",
+      "genres": [
+        "ai-agents",
+        "typescript-javascript"
+      ]
+    },
+    {
+      "fullName": "BrowserMCP/mcp",
+      "genres": [
+        "ai-agents",
+        "typescript-javascript"
+      ]
+    },
+    {
+      "fullName": "MarkusPfundstein/mcp-obsidian",
+      "genres": [
+        "ai-agents",
+        "python"
+      ]
+    },
+    {
+      "fullName": "omkarchillal/cryptominer-android-app",
+      "genres": [
+        "mobile-android",
+        "typescript-javascript"
+      ]
+    },
+    {
+      "fullName": "pyca/cryptography",
+      "genres": [
+        "other",
+        "python"
+      ]
+    },
+    {
+      "fullName": "Nuitka/Nuitka",
+      "genres": [
+        "other",
+        "python"
+      ]
+    },
+    {
+      "fullName": "MRK-YT/Rose-Bot",
+      "genres": [
+        "osint-telegram",
+        "python"
+      ]
+    },
+    {
+      "fullName": "jaceddd/text_watermark",
+      "genres": [
+        "other",
+        "typescript-javascript"
+      ]
+    },
+    {
+      "fullName": "7thSamurai/steganography",
+      "genres": [
+        "other",
+        "systems-rust-go-cpp"
+      ]
+    },
+    {
+      "fullName": "A-poc/BlueTeam-Tools",
+      "genres": [
+        "security"
+      ]
+    },
+    {
+      "fullName": "eyalzh/browser-control-mcp",
+      "genres": [
+        "ai-agents",
+        "typescript-javascript"
+      ]
+    },
+    {
+      "fullName": "cursor/cookbook",
+      "genres": [
+        "cli-ides",
+        "typescript-javascript"
+      ]
+    },
+    {
+      "fullName": "dustinblackman/cf-alias",
+      "genres": [
+        "other",
+        "systems-rust-go-cpp"
+      ]
+    },
+    {
+      "fullName": "davidoberst/fazbearware",
+      "genres": [
+        "security",
+        "python"
+      ]
+    },
+    {
+      "fullName": "fyxme/mcp-file-server",
+      "genres": [
+        "ai-agents",
+        "python"
+      ]
+    },
+    {
+      "fullName": "padok-team/git-secret-scanner",
+      "genres": [
+        "other",
+        "systems-rust-go-cpp"
+      ]
+    },
+    {
+      "fullName": "grab/secret-scanner",
+      "genres": [
+        "other",
+        "systems-rust-go-cpp"
+      ]
+    },
+    {
+      "fullName": "PadishahIII/SecretScraper",
+      "genres": [
+        "osint-telegram",
+        "python"
+      ]
+    },
+    {
+      "fullName": "w0h1v/mcp-virustotal",
+      "genres": [
+        "ai-agents",
+        "security",
+        "typescript-javascript"
+      ]
+    },
+    {
+      "fullName": "MobilePayDev/MobilePay-AppSwitch-API",
+      "genres": [
+        "other"
+      ]
+    },
+    {
+      "fullName": "MobilePayDev/UITestingTool",
+      "genres": [
+        "mobile-android"
+      ]
+    },
+    {
+      "fullName": "MobilePayDev/MobilePay-Payments-API",
+      "genres": [
+        "other",
+        "typescript-javascript"
+      ]
+    },
+    {
+      "fullName": "PaloAltoNetworks/Unit42-timely-threat-intel",
+      "genres": [
+        "osint-telegram"
+      ]
+    },
+    {
+      "fullName": "gophish/gophish",
+      "genres": [
+        "security",
+        "systems-rust-go-cpp"
+      ]
+    },
+    {
+      "fullName": "thekogami/Nederlandse-piraat",
+      "genres": [
+        "security",
+        "python"
+      ]
+    },
+    {
+      "fullName": "kgretzky/evilginx",
+      "genres": [
+        "other",
+        "python"
+      ]
+    },
+    {
+      "fullName": "nireo/gocry",
+      "genres": [
+        "security",
+        "systems-rust-go-cpp"
+      ]
+    },
+    {
+      "fullName": "trustedsec/social-engineer-toolkit",
+      "genres": [
+        "other",
+        "python"
+      ]
+    },
+    {
+      "fullName": "Enyzelle/Discord-Bot-Creator",
+      "genres": [
+        "osint-telegram"
+      ]
+    },
+    {
+      "fullName": "lxjmaster/mcp-feedback-enhanced",
+      "genres": [
+        "ai-agents",
+        "typescript-javascript"
+      ]
+    },
+    {
+      "fullName": "rapid7/metasploit-framework",
+      "genres": [
+        "other"
+      ]
+    },
+    {
+      "fullName": "VoltAgent/awesome-agent-skills",
+      "genres": [
+        "awesome-lists",
+        "ai-agents",
+        "cli-ides"
+      ]
+    },
+    {
+      "fullName": "JuliusBrussee/caveman",
+      "genres": [
+        "ai-agents",
+        "llm-models",
+        "systems-rust-go-cpp"
+      ]
+    },
+    {
+      "fullName": "kamusis/windsurf_best_practice",
+      "genres": [
+        "cli-ides"
+      ]
+    },
+    {
+      "fullName": "cocomelonc/2023-04-27-malware-tricks-27",
+      "genres": [
+        "security",
+        "systems-rust-go-cpp"
+      ]
+    },
+    {
+      "fullName": "cocomelonc/2023-04-16-malware-av-evasion-16",
+      "genres": [
+        "security",
+        "systems-rust-go-cpp"
+      ]
+    },
+    {
+      "fullName": "cocomelonc/2023-04-08-malware-av-evasion-15",
+      "genres": [
+        "security",
+        "systems-rust-go-cpp"
+      ]
+    },
+    {
+      "fullName": "cocomelonc/2023-03-24-malware-av-evasion-14",
+      "genres": [
+        "security",
+        "systems-rust-go-cpp"
+      ]
+    },
+    {
+      "fullName": "cocomelonc/Killer",
+      "genres": [
+        "security",
+        "systems-rust-go-cpp"
+      ]
+    },
+    {
+      "fullName": "cocomelonc/Venom",
+      "genres": [
+        "other"
+      ]
+    },
+    {
+      "fullName": "cocomelonc/2023-05-26-malware-tricks-30",
+      "genres": [
+        "security",
+        "systems-rust-go-cpp"
+      ]
+    },
+    {
+      "fullName": "cocomelonc/2023-05-22-malware-tricks-29",
+      "genres": [
+        "security",
+        "systems-rust-go-cpp"
+      ]
+    },
+    {
+      "fullName": "cocomelonc/2023-05-11-malware-tricks-28",
+      "genres": [
+        "security",
+        "systems-rust-go-cpp"
+      ]
+    },
+    {
+      "fullName": "cocomelonc/2023-06-09-syscalls-2",
+      "genres": [
+        "security",
+        "systems-rust-go-cpp"
+      ]
+    },
+    {
+      "fullName": "cocomelonc/2023-06-07-syscalls-1",
+      "genres": [
+        "security",
+        "systems-rust-go-cpp"
+      ]
+    },
+    {
+      "fullName": "cocomelonc/2023-06-04-malware-tricks-31",
+      "genres": [
+        "security",
+        "systems-rust-go-cpp"
+      ]
+    },
+    {
+      "fullName": "cocomelonc/hacktricks",
+      "genres": [
+        "other",
+        "python"
+      ]
+    },
+    {
+      "fullName": "cocomelonc/offzone-2024-malware-persistence-workshop",
+      "genres": [
+        "security",
+        "systems-rust-go-cpp"
+      ]
+    },
+    {
+      "fullName": "cocomelonc/mdmz_book",
+      "genres": [
+        "security"
+      ]
+    },
+    {
+      "fullName": "cocomelonc/bsprishtina-2024-maldev-workshop",
+      "genres": [
+        "security",
+        "systems-rust-go-cpp"
+      ]
+    },
+    {
+      "fullName": "cocomelonc/peekaboo",
+      "genres": [
+        "other",
+        "python"
+      ]
+    },
+    {
+      "fullName": "monsifhmouri/M-NSTR-M1ND-ULTIMATE-BOTNET-v8.0-APOCALYPSE-CANNON-Activated",
+      "genres": [
+        "other"
+      ]
+    },
+    {
+      "fullName": "monsifhmouri/MNSTR-M1ND_ENCRYPTOR",
+      "genres": [
+        "other"
+      ]
+    },
+    {
+      "fullName": "monsifhmouri/hexstrike",
+      "genres": [
+        "ai-agents",
+        "llm-models",
+        "security"
+      ]
+    },
+    {
+      "fullName": "monsifhmouri/MONSTR-PHISH",
+      "genres": [
+        "security"
+      ]
+    },
+    {
+      "fullName": "monsifhmouri/cloudfront-bypass",
+      "genres": [
+        "security",
+        "python"
+      ]
+    },
+    {
+      "fullName": "monsifhmouri/Android-Remote-Control-System",
+      "genres": [
+        "mobile-android",
+        "python"
+      ]
+    },
+    {
+      "fullName": "monsifhmouri/DDoS-Attack",
+      "genres": [
+        "security"
+      ]
+    },
+    {
+      "fullName": "HeightCoder/Cyborg-Ransomware-Builder-Source",
+      "genres": [
+        "security"
+      ]
+    },
+    {
+      "fullName": "HeightCoder/ZagreuS-Ransomware-Builder",
+      "genres": [
+        "security"
+      ]
+    },
+    {
+      "fullName": "HeightCoder/Yashma-Ransomware",
+      "genres": [
+        "security"
+      ]
+    },
+    {
+      "fullName": "HeightCoder/HeightCoder",
+      "genres": [
+        "other"
+      ]
+    },
+    {
+      "fullName": "HeightCoder/Hitobito-Ransomware-Source",
+      "genres": [
+        "security"
+      ]
+    },
+    {
+      "fullName": "HeightCoder/Hakuna-Matata-Ransomware-Source",
+      "genres": [
+        "security"
+      ]
+    },
+    {
+      "fullName": "blacklanternsecurity/TREVORproxy",
+      "genres": [
+        "other",
+        "python"
+      ]
+    },
+    {
+      "fullName": "blacklanternsecurity/bbot",
+      "genres": [
+        "other",
+        "python"
+      ]
+    },
+    {
+      "fullName": "Cursed271/DeadKey",
+      "genres": [
+        "other",
+        "python"
+      ]
+    },
+    {
+      "fullName": "samftggr/VEN0m-Ransomware",
+      "genres": [
+        "security",
+        "systems-rust-go-cpp"
+      ]
+    },
+    {
+      "fullName": "mthcht/awesome-lists",
+      "genres": [
+        "awesome-lists",
+        "security"
+      ]
+    },
+    {
+      "fullName": "ytisf/BirDuster",
+      "genres": [
+        "other",
+        "python"
+      ]
+    },
+    {
+      "fullName": "ytisf/theZoo",
+      "genres": [
+        "security",
+        "python"
+      ]
+    },
+    {
+      "fullName": "ksdodk/DiscordSendVoiceMessage",
+      "genres": [
+        "osint-telegram",
+        "python"
+      ]
+    },
+    {
+      "fullName": "ksdodk/DiscordFakeDeaf",
+      "genres": [
+        "other",
+        "typescript-javascript"
+      ]
+    },
+    {
+      "fullName": "cocomelonc/meow",
+      "genres": [
+        "other",
+        "systems-rust-go-cpp"
+      ]
+    },
+    {
+      "fullName": "malwaredllc/byob",
+      "genres": [
+        "other",
+        "python"
+      ]
+    },
+    {
+      "fullName": "redcanaryco/atomic-red-team",
+      "genres": [
+        "security",
+        "systems-rust-go-cpp"
+      ]
+    },
+    {
+      "fullName": "HeightCoder/Chaos-Ransomware-Builder",
+      "genres": [
+        "security"
+      ]
+    },
+    {
+      "fullName": "Cursed271/CipherStrike",
+      "genres": [
+        "security",
+        "python"
+      ]
+    },
+    {
+      "fullName": "ytisf/PyExfil",
+      "genres": [
+        "security",
+        "python"
+      ]
+    },
+    {
+      "fullName": "blacklanternsecurity/TREVORspray",
+      "genres": [
+        "other",
+        "python"
+      ]
+    },
+    {
+      "fullName": "monsifhmouri/GhostHound-Stealer",
+      "genres": [
+        "other",
+        "python"
+      ]
+    },
+    {
+      "fullName": "ksdodk/ChromiumStealer",
+      "genres": [
+        "osint-telegram",
+        "python"
+      ]
+    },
+    {
+      "fullName": "TheAlgorithms/Python",
+      "genres": [
+        "other",
+        "python"
+      ]
+    },
+    {
+      "fullName": "8L4NK/blackeye",
+      "genres": [
+        "security"
+      ]
+    },
+    {
+      "fullName": "UndeadSec/SocialFish",
+      "genres": [
+        "security",
+        "web-frontend"
+      ]
+    },
+    {
+      "fullName": "PaddlePaddle/PaddleOCR",
+      "genres": [
+        "llm-models",
+        "python"
+      ]
+    },
+    {
+      "fullName": "Ignitetch/AdvPhishing",
+      "genres": [
+        "security"
+      ]
+    },
+    {
+      "fullName": "0xHossam/APT-Attack-Simulation",
+      "genres": [
+        "security"
+      ]
+    },
+    {
+      "fullName": "0xHossam/Killer",
+      "genres": [
+        "security",
+        "systems-rust-go-cpp"
+      ]
+    },
+    {
+      "fullName": "0xHossam/KernelCallbackTable-Injection-PoC",
+      "genres": [
+        "other",
+        "systems-rust-go-cpp"
+      ]
+    },
+    {
+      "fullName": "0xHossam/HuffLoader",
+      "genres": [
+        "other",
+        "systems-rust-go-cpp"
+      ]
+    },
+    {
+      "fullName": "ndr-repo/Adrenaline",
+      "genres": [
+        "other",
+        "python"
+      ]
+    },
+    {
+      "fullName": "biggerboy1stPeter/bobthesmuggler",
+      "genres": [
+        "security"
+      ]
+    },
+    {
+      "fullName": "biggerboy1stPeter/KingOfBugBountyTips",
+      "genres": [
+        "other"
+      ]
+    },
+    {
+      "fullName": "biggerboy1stPeter/venom",
+      "genres": [
+        "security"
+      ]
+    },
+    {
+      "fullName": "biggerboy1stPeter/cve-2025-33073",
+      "genres": [
+        "security"
+      ]
+    },
+    {
+      "fullName": "biggerboy1stPeter/findme",
+      "genres": [
+        "osint-telegram",
+        "cli-ides"
+      ]
+    },
+    {
+      "fullName": "biggerboy1stPeter/quickassist_uac_bypass",
+      "genres": [
+        "security"
+      ]
+    },
+    {
+      "fullName": "biggerboy1stPeter/sk-builder",
+      "genres": [
+        "other"
+      ]
+    },
+    {
+      "fullName": "biggerboy1stPeter/ChromeKatz",
+      "genres": [
+        "other"
+      ]
+    },
+    {
+      "fullName": "biggerboy1stPeter/cai",
+      "genres": [
+        "security"
+      ]
+    },
+    {
+      "fullName": "biggerboy1stPeter/PROXY-List",
+      "genres": [
+        "other"
+      ]
+    },
+    {
+      "fullName": "biggerboy1stPeter/ransomlook",
+      "genres": [
+        "security"
+      ]
+    },
+    {
+      "fullName": "biggerboy1stPeter/awesome-hacking",
+      "genres": [
+        "awesome-lists"
+      ]
+    },
+    {
+      "fullName": "biggerboy1stPeter/xssnow",
+      "genres": [
+        "security"
+      ]
+    },
+    {
+      "fullName": "biggerboy1stPeter/apts-adversary-simulation",
+      "genres": [
+        "security"
+      ]
+    },
+    {
+      "fullName": "biggerboy1stPeter/diotest-agent",
+      "genres": [
+        "ai-agents"
+      ]
+    },
+    {
+      "fullName": "biggerboy1stPeter/instagramprivsniffer",
+      "genres": [
+        "other"
+      ]
+    },
+    {
+      "fullName": "biggerboy1stPeter/Casing",
+      "genres": [
+        "other",
+        "typescript-javascript"
+      ]
+    },
+    {
+      "fullName": "biggerboy1stPeter/alfred",
+      "genres": [
+        "osint-telegram"
+      ]
+    },
+    {
+      "fullName": "biggerboy1stPeter/adaptixc2",
+      "genres": [
+        "security"
+      ]
+    },
+    {
+      "fullName": "biggerboy1stPeter/st3gg",
+      "genres": [
+        "other"
+      ]
+    },
+    {
+      "fullName": "biggerboy1stPeter/openscreen",
+      "genres": [
+        "other"
+      ]
+    },
+    {
+      "fullName": "biggerboy1stPeter/socid-extractor",
+      "genres": [
+        "osint-telegram"
+      ]
+    },
+    {
+      "fullName": "biggerboy1stPeter/free-voice-clone",
+      "genres": [
+        "other"
+      ]
+    },
+    {
+      "fullName": "biggerboy1stPeter/opsec-guide",
+      "genres": [
+        "security"
+      ]
+    },
+    {
+      "fullName": "Excalibra/network-tunneling",
+      "genres": [
+        "other"
+      ]
+    },
+    {
+      "fullName": "Excalibra/Automated-Cryptocurrency-News-Analysis",
+      "genres": [
+        "other",
+        "python"
+      ]
+    },
+    {
+      "fullName": "Excalibra/cybersecurity",
+      "genres": [
+        "security",
+        "osint-telegram",
+        "data-ml"
+      ]
+    },
+    {
+      "fullName": "Excalibra/RED-TEAM-OPERATOR-Evasion-Windows",
+      "genres": [
+        "security",
+        "systems-rust-go-cpp"
+      ]
+    },
+    {
+      "fullName": "Excalibra/Antivirus-EDR-Evasion-Bypass-for-Pentesters-Red-Teamers",
+      "genres": [
+        "security",
+        "systems-rust-go-cpp"
+      ]
+    },
+    {
+      "fullName": "Excalibra/LNK-Malware-Analyzer",
+      "genres": [
+        "security"
+      ]
+    },
+    {
+      "fullName": "Excalibra/Advanced-Phishing-Simulation-Framework",
+      "genres": [
+        "security"
+      ]
+    },
+    {
+      "fullName": "Excalibra/GhostByte",
+      "genres": [
+        "other",
+        "python"
+      ]
+    },
+    {
+      "fullName": "Excalibra/scripts",
+      "genres": [
+        "security",
+        "data-ml"
+      ]
+    },
+    {
+      "fullName": "Excalibra/XORPHER",
+      "genres": [
+        "security",
+        "python"
+      ]
+    },
+    {
+      "fullName": "Excalibra/GhostLNK",
+      "genres": [
+        "security",
+        "python"
+      ]
+    },
+    {
+      "fullName": "Excalibra/AFInjector",
+      "genres": [
+        "other",
+        "systems-rust-go-cpp"
+      ]
+    },
+    {
+      "fullName": "darkoperator/Posh-VirusTotal",
+      "genres": [
+        "other"
+      ]
+    },
+    {
+      "fullName": "darkoperator/Posh-SSH",
+      "genres": [
+        "other"
+      ]
+    },
+    {
+      "fullName": "darkoperator/dnsrecon",
+      "genres": [
+        "other",
+        "python"
+      ]
+    },
+    {
+      "fullName": "jasonstrimpel/pandas",
+      "genres": [
+        "data-ml",
+        "python"
+      ]
+    },
+    {
+      "fullName": "ustayready/rag-tutorial-v2",
+      "genres": [
+        "ai-agents",
+        "llm-models",
+        "learning"
+      ]
+    },
+    {
+      "fullName": "ustayready/shadow-rs",
+      "genres": [
+        "other"
+      ]
+    },
+    {
+      "fullName": "ustayready/DriverJack",
+      "genres": [
+        "other"
+      ]
+    },
+    {
+      "fullName": "ustayready/cuddlephish",
+      "genres": [
+        "other"
+      ]
+    },
+    {
+      "fullName": "ustayready/Pentest_Notes",
+      "genres": [
+        "other"
+      ]
+    },
+    {
+      "fullName": "ustayready/MacMalware",
+      "genres": [
+        "security"
+      ]
+    },
+    {
+      "fullName": "ustayready/awesome-llm-apps",
+      "genres": [
+        "awesome-lists",
+        "ai-agents",
+        "llm-models"
+      ]
+    },
+    {
+      "fullName": "ustayready/exo",
+      "genres": [
+        "other"
+      ]
+    },
+    {
+      "fullName": "ustayready/Evilginx-Phishing-Infra-Setup",
+      "genres": [
+        "security"
+      ]
+    },
+    {
+      "fullName": "ustayready/ldrshuffle",
+      "genres": [
+        "other"
+      ]
+    },
+    {
+      "fullName": "ustayready/MoveEdr",
+      "genres": [
+        "other"
+      ]
+    },
+    {
+      "fullName": "ustayready/oauthseeker",
+      "genres": [
+        "security"
+      ]
+    },
+    {
+      "fullName": "ustayready/ChromeAlone",
+      "genres": [
+        "security"
+      ]
+    },
+    {
+      "fullName": "ustayready/pyghidra-mcp",
+      "genres": [
+        "ai-agents"
+      ]
+    },
+    {
+      "fullName": "ustayready/bloodyad",
+      "genres": [
+        "other"
+      ]
+    },
+    {
+      "fullName": "ustayready/donpwner",
+      "genres": [
+        "security"
+      ]
+    },
+    {
+      "fullName": "ustayready/IMSI-catcher",
+      "genres": [
+        "other"
+      ]
+    },
+    {
+      "fullName": "ustayready/EDR-Redir",
+      "genres": [
+        "other"
+      ]
+    },
+    {
+      "fullName": "ustayready/shadowbroker",
+      "genres": [
+        "other"
+      ]
+    },
+    {
+      "fullName": "ustayready/flareprox",
+      "genres": [
+        "other",
+        "python"
+      ]
+    },
+    {
+      "fullName": "ustayready/truffleHog",
+      "genres": [
+        "other",
+        "systems-rust-go-cpp"
+      ]
+    },
+    {
+      "fullName": "ustayready/deeptutor",
+      "genres": [
+        "other",
+        "python"
+      ]
+    },
+    {
+      "fullName": "ustayready/CredSniper",
+      "genres": [
+        "security"
+      ]
+    },
+    {
+      "fullName": "Dec0ne/KrbRelayUp",
+      "genres": [
+        "other"
+      ]
+    },
+    {
+      "fullName": "stephenfewer/ReflectiveDLLInjection",
+      "genres": [
+        "other",
+        "systems-rust-go-cpp"
+      ]
+    },
+    {
+      "fullName": "EgeBalci/SleepyCrypt",
+      "genres": [
+        "other"
+      ]
+    },
+    {
+      "fullName": "ShutdownRepo/pywhisker",
+      "genres": [
+        "other",
+        "python"
+      ]
+    },
+    {
+      "fullName": "aielte-research/HackSynth",
+      "genres": [
+        "ai-agents",
+        "llm-models",
+        "python"
+      ]
+    },
+    {
+      "fullName": "Mr-Infect/AI-penetration-testing",
+      "genres": [
+        "ai-agents",
+        "llm-models",
+        "security"
+      ]
+    },
+    {
+      "fullName": "Repello-AI/whistleblower",
+      "genres": [
+        "llm-models",
+        "security",
+        "python"
+      ]
+    },
+    {
+      "fullName": "chaindead/telegram-mcp",
+      "genres": [
+        "ai-agents",
+        "osint-telegram",
+        "systems-rust-go-cpp"
+      ]
+    },
+    {
+      "fullName": "iamanirbanbasak/local_lens",
+      "genres": [
+        "ai-agents",
+        "osint-telegram",
+        "python"
+      ]
+    },
+    {
+      "fullName": "its-me-arjun-0007/Worm-GPT",
+      "genres": [
+        "llm-models",
+        "osint-telegram",
+        "cli-ides",
+        "python"
+      ]
+    },
+    {
+      "fullName": "Rohit8y/AI-Brief",
+      "genres": [
+        "osint-telegram",
+        "python"
+      ]
+    },
+    {
+      "fullName": "gimacorp/Habit-Tracker-Project-for-SET",
+      "genres": [
+        "osint-telegram",
+        "python"
+      ]
+    },
+    {
+      "fullName": "kripersi/RAT-tg-python",
+      "genres": [
+        "osint-telegram",
+        "python"
+      ]
+    },
+    {
+      "fullName": "Thecybersameer/Boss_Hack",
+      "genres": [
+        "security",
+        "osint-telegram",
+        "python"
+      ]
+    },
+    {
+      "fullName": "jinseisieko/se-toolkit-hackathon",
+      "genres": [
+        "osint-telegram",
+        "python"
+      ]
+    },
+    {
+      "fullName": "JadenRazo/TicketHacker",
+      "genres": [
+        "osint-telegram",
+        "typescript-javascript"
+      ]
+    },
+    {
+      "fullName": "ibiibi/Camera-Hack-bot",
+      "genres": [
+        "security",
+        "osint-telegram"
+      ]
+    },
+    {
+      "fullName": "PrefectHQ/prefect",
+      "genres": [
+        "other",
+        "python"
+      ]
+    },
+    {
+      "fullName": "MafiaBotOP/MafiaBot",
+      "genres": [
+        "other"
+      ]
+    },
+    {
+      "fullName": "abhigyanpatwari/GitNexus",
+      "genres": [
+        "ai-agents",
+        "typescript-javascript"
+      ]
+    },
+    {
+      "fullName": "HunxByts/GhostTrack",
+      "genres": [
+        "mobile-android",
+        "python"
+      ]
+    },
+    {
+      "fullName": "CJackHwang/ds2api",
+      "genres": [
+        "other",
+        "systems-rust-go-cpp"
+      ]
+    },
+    {
+      "fullName": "iamgio/quarkdown",
+      "genres": [
+        "mobile-android"
+      ]
+    },
+    {
+      "fullName": "public-apis/public-apis",
+      "genres": [
+        "other",
+        "python"
+      ]
+    },
+    {
+      "fullName": "ciembor/agent-rules-books",
+      "genres": [
+        "ai-agents",
+        "cli-ides"
+      ]
+    },
+    {
+      "fullName": "mattpocock/skills",
+      "genres": [
+        "ai-agents"
+      ]
+    },
+    {
+      "fullName": "composio-community/awesome-codex-skills",
+      "genres": [
+        "awesome-lists",
+        "ai-agents",
+        "cli-ides",
+        "python"
+      ]
+    },
+    {
+      "fullName": "gastownhall/beads",
+      "genres": [
+        "ai-agents",
+        "systems-rust-go-cpp"
+      ]
+    },
+    {
+      "fullName": "microsoft/VibeVoice",
+      "genres": [
+        "other",
+        "python"
+      ]
+    },
+    {
+      "fullName": "TauricResearch/TradingAgents",
+      "genres": [
+        "ai-agents",
+        "llm-models",
+        "python"
+      ]
+    },
+    {
+      "fullName": "HKUDS/RAG-Anything",
+      "genres": [
+        "other",
+        "python"
+      ]
+    },
+    {
+      "fullName": "alirezarezvani/claude-skills",
+      "genres": [
+        "ai-agents",
+        "cli-ides",
+        "python"
+      ]
+    },
+    {
+      "fullName": "abhishek-maurya576/Windsurf-IDE-Configuration-Reset",
+      "genres": [
+        "cli-ides"
+      ]
+    },
+    {
+      "fullName": "gabrielpolsh/windsurf-pro-trial-reset-free",
+      "genres": [
+        "cli-ides"
+      ]
+    },
+    {
+      "fullName": "hangwin/mcp-chrome",
+      "genres": [
+        "ai-agents",
+        "typescript-javascript"
+      ]
+    },
+    {
+      "fullName": "DovAmir/awesome-design-patterns",
+      "genres": [
+        "awesome-lists"
+      ]
+    },
+    {
+      "fullName": "akullpp/awesome-java",
+      "genres": [
+        "awesome-lists"
+      ]
+    },
+    {
+      "fullName": "fffaraz/awesome-cpp",
+      "genres": [
+        "awesome-lists"
+      ]
+    },
+    {
+      "fullName": "trimstray/the-book-of-secret-knowledge",
+      "genres": [
+        "cli-ides"
+      ]
+    },
+    {
+      "fullName": "jayleehappy/windsurf-vip-free",
+      "genres": [
+        "cli-ides",
+        "python"
+      ]
+    },
+    {
+      "fullName": "detailobsessed/awesome-devin",
+      "genres": [
+        "awesome-lists",
+        "cli-ides",
+        "typescript-javascript"
+      ]
+    },
+    {
+      "fullName": "junegunn/fzf",
+      "genres": [
+        "other",
+        "systems-rust-go-cpp"
+      ]
+    },
+    {
+      "fullName": "best-ai-agents/discord-servers-for-ai-agents",
+      "genres": [
+        "ai-agents",
+        "osint-telegram"
+      ]
+    },
+    {
+      "fullName": "lightbody/browsermob-proxy",
+      "genres": [
+        "other"
+      ]
+    },
+    {
+      "fullName": "binhnguyennus/awesome-scalability",
+      "genres": [
+        "awesome-lists"
+      ]
+    },
+    {
+      "fullName": "DaniilDonskoy/Shop-bot",
+      "genres": [
+        "osint-telegram",
+        "python"
+      ]
+    },
+    {
+      "fullName": "CodeXBotz/File-Sharing-Bot",
+      "genres": [
+        "osint-telegram",
+        "python"
+      ]
+    },
+    {
+      "fullName": "VSCodium/vscodium",
+      "genres": [
+        "other"
+      ]
+    },
+    {
+      "fullName": "python-telegram-bot/rules-bot",
+      "genres": [
+        "osint-telegram",
+        "python"
+      ]
+    },
+    {
+      "fullName": "coleam00/remote-agentic-coding-system",
+      "genres": [
+        "ai-agents",
+        "osint-telegram",
+        "learning",
+        "typescript-javascript"
+      ]
+    },
+    {
+      "fullName": "coleam00/local-ai-packaged",
+      "genres": [
+        "llm-models",
+        "python"
+      ]
+    },
+    {
+      "fullName": "coleam00/context-engineering-intro",
+      "genres": [
+        "ai-agents",
+        "python"
+      ]
+    },
+    {
+      "fullName": "marceloeatworld/clopinette-ai",
+      "genres": [
+        "ai-agents",
+        "osint-telegram",
+        "typescript-javascript"
+      ]
+    },
+    {
+      "fullName": "Graph-COM/CKA-Agent",
+      "genres": [
+        "ai-agents",
+        "llm-models",
+        "python"
+      ]
+    },
+    {
+      "fullName": "kyegomez/tree-of-thoughts",
+      "genres": [
+        "other",
+        "python"
+      ]
+    },
+    {
+      "fullName": "mgeeky/Stracciatella",
+      "genres": [
+        "other"
+      ]
+    },
+    {
+      "fullName": "smartchannels/smartchannels",
+      "genres": [
+        "ai-agents"
+      ]
+    },
+    {
+      "fullName": "teoobarca/perplexity-mcp",
+      "genres": [
+        "ai-agents",
+        "osint-telegram",
+        "web-frontend",
+        "python"
+      ]
+    },
+    {
+      "fullName": "uhaop/Gantry",
+      "genres": [
+        "osint-telegram",
+        "cli-ides",
+        "typescript-javascript"
+      ]
+    },
+    {
+      "fullName": "asbhaibsr/Adds",
+      "genres": [
+        "osint-telegram",
+        "python"
+      ]
+    },
+    {
+      "fullName": "samugit83/redamon",
+      "genres": [
+        "ai-agents",
+        "security",
+        "python"
+      ]
+    },
+    {
+      "fullName": "skandler/simulate-black-basta",
+      "genres": [
+        "security"
+      ]
+    },
+    {
+      "fullName": "garagon/aguara",
+      "genres": [
+        "ai-agents",
+        "security",
+        "systems-rust-go-cpp"
+      ]
+    },
+    {
+      "fullName": "badchars/osint-mcp-server",
+      "genres": [
+        "ai-agents",
+        "security",
+        "osint-telegram",
+        "typescript-javascript"
+      ]
+    },
+    {
+      "fullName": "Goochbeater/Spiritual-Spell-Red-Teaming",
+      "genres": [
+        "ai-agents",
+        "llm-models"
+      ]
+    },
+    {
+      "fullName": "wesmar/kvc",
+      "genres": [
+        "security",
+        "systems-rust-go-cpp"
+      ]
+    },
+    {
+      "fullName": "wesmar/WinDefCtl",
+      "genres": [
+        "security",
+        "systems-rust-go-cpp"
+      ]
+    },
+    {
+      "fullName": "BASI-LABS/parseltongue",
+      "genres": [
+        "other",
+        "typescript-javascript"
+      ]
+    },
+    {
+      "fullName": "jaykali/maskphish",
+      "genres": [
+        "security"
+      ]
+    },
+    {
+      "fullName": "punkpeye/fastmcp",
+      "genres": [
+        "ai-agents",
+        "typescript-javascript"
+      ]
+    },
+    {
+      "fullName": "GH05TCREW/MetasploitMCP",
+      "genres": [
+        "ai-agents",
+        "python"
+      ]
+    },
+    {
+      "fullName": "cjo4m06/mcp-shrimp-task-manager",
+      "genres": [
+        "ai-agents",
+        "typescript-javascript"
+      ]
+    },
+    {
+      "fullName": "DeusData/codebase-memory-mcp",
+      "genres": [
+        "ai-agents",
+        "systems-rust-go-cpp"
+      ]
+    },
+    {
+      "fullName": "iannuttall/mcp-boilerplate",
+      "genres": [
+        "ai-agents",
+        "typescript-javascript"
+      ]
+    },
+    {
+      "fullName": "MiniMax-AI/MiniMax-MCP",
+      "genres": [
+        "ai-agents",
+        "python"
+      ]
+    },
+    {
+      "fullName": "louislva/claude-peers-mcp",
+      "genres": [
+        "ai-agents",
+        "typescript-javascript"
+      ]
+    },
+    {
+      "fullName": "huggingface/mcp-course",
+      "genres": [
+        "ai-agents",
+        "llm-models",
+        "learning"
+      ]
+    },
+    {
+      "fullName": "samanhappy/mcphub",
+      "genres": [
+        "ai-agents",
+        "typescript-javascript"
+      ]
+    },
+    {
+      "fullName": "grafana/mcp-grafana",
+      "genres": [
+        "ai-agents",
+        "devops-selfhosted",
+        "systems-rust-go-cpp"
+      ]
+    },
+    {
+      "fullName": "cloudflare/mcp",
+      "genres": [
+        "ai-agents",
+        "typescript-javascript"
+      ]
+    },
+    {
+      "fullName": "LaurieWired/GhidraMCP",
+      "genres": [
+        "ai-agents"
+      ]
+    },
+    {
+      "fullName": "BYTEHACKING-CREATIVE/Python-ai-assistant",
+      "genres": [
+        "other"
+      ]
+    },
+    {
+      "fullName": "oakkaya/SysWhispers4",
+      "genres": [
+        "other"
+      ]
+    },
+    {
+      "fullName": "MinhasKamal/StupidKeylogger",
+      "genres": [
+        "other",
+        "systems-rust-go-cpp"
+      ]
+    },
+    {
+      "fullName": "MinhasKamal/TrojanCockroach",
+      "genres": [
+        "other",
+        "systems-rust-go-cpp"
+      ]
+    },
+    {
+      "fullName": "EvilHoster/evilginx-3.4.0-telegram-modification",
+      "genres": [
+        "osint-telegram",
+        "systems-rust-go-cpp"
+      ]
+    },
+    {
+      "fullName": "JonyFilc/PrintSpoofer-ReflectiveDLL",
+      "genres": [
+        "security",
+        "systems-rust-go-cpp"
+      ]
+    },
+    {
+      "fullName": "DavidAnson/markdownlint",
+      "genres": [
+        "other",
+        "typescript-javascript"
+      ]
+    },
+    {
+      "fullName": "elder-plinius/L1B3RT4S",
+      "genres": [
+        "other"
+      ]
+    },
+    {
+      "fullName": "elder-plinius/G0DM0D3",
+      "genres": [
+        "other",
+        "typescript-javascript"
+      ]
+    },
+    {
+      "fullName": "elder-plinius/CL4R1T4S",
+      "genres": [
+        "ai-agents",
+        "cli-ides"
+      ]
+    },
+    {
+      "fullName": "elder-plinius/OBLITERATUS",
+      "genres": [
+        "other",
+        "python"
+      ]
+    },
+    {
+      "fullName": "elder-plinius/ST3GG",
+      "genres": [
+        "other"
+      ]
+    },
+    {
+      "fullName": "aiming-lab/LURE",
+      "genres": [
+        "other"
+      ]
+    },
+    {
+      "fullName": "aiming-lab/Agent0",
+      "genres": [
+        "ai-agents",
+        "python"
+      ]
+    },
+    {
+      "fullName": "aiming-lab/SimpleOCR",
+      "genres": [
+        "other",
+        "python"
+      ]
+    },
+    {
+      "fullName": "aiming-lab/MedVerse",
+      "genres": [
+        "biohacking-health",
+        "python"
+      ]
+    },
+    {
+      "fullName": "aiming-lab/MDocAgent",
+      "genres": [
+        "ai-agents",
+        "python"
+      ]
+    },
+    {
+      "fullName": "aiming-lab/SkillRL",
+      "genres": [
+        "ai-agents",
+        "python"
+      ]
+    },
+    {
+      "fullName": "aiming-lab/MetaClaw",
+      "genres": [
+        "ai-agents",
+        "python"
+      ]
+    },
+    {
+      "fullName": "aiming-lab/AutoResearchClaw",
+      "genres": [
+        "other",
+        "python"
+      ]
+    },
+    {
+      "fullName": "aiming-lab/SimpleMem",
+      "genres": [
+        "ai-agents",
+        "llm-models",
+        "python"
+      ]
+    },
+    {
+      "fullName": "tommyguolin/openclaw-soul",
+      "genres": [
+        "ai-agents",
+        "typescript-javascript"
+      ]
+    },
+    {
+      "fullName": "timgerstel/suspicious_IPs",
+      "genres": [
+        "other"
+      ]
+    },
+    {
+      "fullName": "sensity-ai/dot",
+      "genres": [
+        "other",
+        "python"
+      ]
+    },
+    {
+      "fullName": "YangLiangwei/PersonalizationMCP",
+      "genres": [
+        "ai-agents",
+        "python"
+      ]
+    },
+    {
+      "fullName": "BYTEHACKING-CREATIVE/SPYBOMB",
+      "genres": [
+        "mobile-android"
+      ]
+    },
+    {
+      "fullName": "Tips-Discord/Cwelium",
+      "genres": [
+        "osint-telegram",
+        "python"
+      ]
+    },
+    {
+      "fullName": "thewhiteh4t/seeker",
+      "genres": [
+        "web-frontend"
+      ]
+    },
+    {
+      "fullName": "thewhiteh4t/nexfil",
+      "genres": [
+        "osint-telegram",
+        "python"
+      ]
+    },
+    {
+      "fullName": "thewhiteh4t/pwnedOrNot",
+      "genres": [
+        "osint-telegram",
+        "python"
+      ]
+    },
+    {
+      "fullName": "hac01/Astra-Bot",
+      "genres": [
+        "osint-telegram",
+        "python"
+      ]
+    },
+    {
+      "fullName": "owasp-amass/amass",
+      "genres": [
+        "security",
+        "systems-rust-go-cpp"
+      ]
+    },
+    {
+      "fullName": "oakkaya/Prince-Ransomware",
+      "genres": [
+        "security"
+      ]
+    },
+    {
+      "fullName": "Cybersight-Security/OSINT-Toolkit",
+      "genres": [
+        "security",
+        "osint-telegram"
+      ]
+    },
+    {
+      "fullName": "xelroth/VirusTotal",
+      "genres": [
+        "other",
+        "python"
+      ]
+    },
+    {
+      "fullName": "l0ll098/IpChanger",
+      "genres": [
+        "other",
+        "typescript-javascript"
+      ]
+    },
+    {
+      "fullName": "nordsecgroup/oauth2_proxy",
+      "genres": [
+        "other"
+      ]
+    },
+    {
+      "fullName": "nordsecgroup/HTMLSmuggler",
+      "genres": [
+        "security"
+      ]
+    },
+    {
+      "fullName": "nordsecgroup/discord_cursor_agent_bot",
+      "genres": [
+        "ai-agents",
+        "osint-telegram",
+        "cli-ides"
+      ]
+    },
+    {
+      "fullName": "r00t-3xp10it/venom",
+      "genres": [
+        "security"
+      ]
+    },
+    {
+      "fullName": "agentsmd/agents.md",
+      "genres": [
+        "ai-agents",
+        "typescript-javascript"
+      ]
+    },
+    {
+      "fullName": "uginy/telecode",
+      "genres": [
+        "other",
+        "typescript-javascript"
+      ]
+    },
+    {
+      "fullName": "numbpill3d/spi_flash_auto_unlocker",
+      "genres": [
+        "other",
+        "python"
+      ]
+    },
+    {
+      "fullName": "91DarioDev/forwardscoverbot",
+      "genres": [
+        "osint-telegram",
+        "python"
+      ]
+    },
+    {
+      "fullName": "bohd4nx/stars-payment",
+      "genres": [
+        "osint-telegram",
+        "python"
+      ]
+    },
+    {
+      "fullName": "MustardChef/WSABuilds",
+      "genres": [
+        "mobile-android",
+        "python"
+      ]
+    },
+    {
+      "fullName": "ai-to-ai/Auto-Gmail-Creator",
+      "genres": [
+        "llm-models",
+        "osint-telegram",
+        "python"
+      ]
+    },
+    {
+      "fullName": "BasedHardware/omi",
+      "genres": [
+        "other",
+        "python"
+      ]
+    },
+    {
+      "fullName": "topoteretes/cognee",
+      "genres": [
+        "ai-agents",
+        "python"
+      ]
+    },
+    {
+      "fullName": "google/magika",
+      "genres": [
+        "other",
+        "python"
+      ]
+    },
+    {
+      "fullName": "vercel-labs/open-agents",
+      "genres": [
+        "ai-agents",
+        "typescript-javascript"
+      ]
+    },
+    {
+      "fullName": "jamiepine/voicebox",
+      "genres": [
+        "other",
+        "typescript-javascript"
+      ]
+    },
+    {
+      "fullName": "lsdefine/GenericAgent",
+      "genres": [
+        "ai-agents",
+        "llm-models",
+        "python"
+      ]
+    },
+    {
+      "fullName": "devgaganin/Auto-Forward-Bot-V2",
+      "genres": [
+        "osint-telegram",
+        "python"
+      ]
+    },
+    {
+      "fullName": "abaykan/TrackOut",
+      "genres": [
+        "other",
+        "python"
+      ]
+    },
+    {
+      "fullName": "itwizardo/hackcode",
+      "genres": [
+        "ai-agents",
+        "systems-rust-go-cpp"
+      ]
+    },
+    {
+      "fullName": "thewaltero/mythos-router",
+      "genres": [
+        "ai-agents",
+        "typescript-javascript"
+      ]
+    },
+    {
+      "fullName": "shanraisshan/claude-code-best-practice",
+      "genres": [
+        "ai-agents"
+      ]
+    },
+    {
+      "fullName": "multica-ai/andrej-karpathy-skills",
+      "genres": [
+        "ai-agents",
+        "llm-models"
+      ]
+    },
+    {
+      "fullName": "shiyu-coder/Kronos",
+      "genres": [
+        "other",
+        "python"
+      ]
+    },
+    {
+      "fullName": "snarktank/ralph",
+      "genres": [
+        "ai-agents",
+        "typescript-javascript"
+      ]
+    },
+    {
+      "fullName": "gsd-build/get-shit-done",
+      "genres": [
+        "ai-agents",
+        "typescript-javascript"
+      ]
+    },
+    {
+      "fullName": "thedotmack/claude-mem",
+      "genres": [
+        "ai-agents",
+        "typescript-javascript"
+      ]
+    },
+    {
+      "fullName": "VaultCord/Discord-Token-Joiner",
+      "genres": [
+        "llm-models",
+        "osint-telegram",
+        "python"
+      ]
+    },
+    {
+      "fullName": "ziziwho/teleinviter",
+      "genres": [
+        "osint-telegram"
+      ]
+    },
+    {
+      "fullName": "maksemen2/Telegram-group-and-channel-cloner",
+      "genres": [
+        "osint-telegram",
+        "python"
+      ]
+    },
+    {
+      "fullName": "reizhi/Telegram-Message-Clone",
+      "genres": [
+        "osint-telegram",
+        "python"
+      ]
+    },
+    {
+      "fullName": "Javojav/Floot_Bot",
+      "genres": [
+        "osint-telegram",
+        "typescript-javascript"
+      ]
+    },
+    {
+      "fullName": "coleam00/Archon",
+      "genres": [
+        "other",
+        "typescript-javascript"
+      ]
+    },
+    {
+      "fullName": "microsoft/markitdown",
+      "genres": [
+        "other",
+        "python"
+      ]
+    },
+    {
+      "fullName": "krishealty/ducky-virus",
+      "genres": [
+        "mobile-android"
+      ]
+    },
+    {
+      "fullName": "ruvnet/RuView",
+      "genres": [
+        "other",
+        "systems-rust-go-cpp"
+      ]
+    },
+    {
+      "fullName": "letta-ai/claude-subconscious",
+      "genres": [
+        "ai-agents",
+        "typescript-javascript"
+      ]
+    },
+    {
+      "fullName": "alexbieber/RevengeBomber2.0",
+      "genres": [
+        "other",
+        "python"
+      ]
+    },
+    {
+      "fullName": "VastV2/VTG-V2",
+      "genres": [
+        "osint-telegram",
+        "python"
+      ]
+    },
+    {
+      "fullName": "VaimpierOfficial/Vaim-RamSom",
+      "genres": [
+        "security",
+        "mobile-android"
+      ]
+    },
+    {
+      "fullName": "HARRY-EXE/HARRYv6",
+      "genres": [
+        "other",
+        "python"
+      ]
+    },
+    {
+      "fullName": "Err0r-ICA/Brutegram",
+      "genres": [
+        "other"
+      ]
+    },
+    {
+      "fullName": "STARK-404/FB-HACK",
+      "genres": [
+        "other",
+        "python"
+      ]
+    },
+    {
+      "fullName": "fikrado/JOKER-burtal-force",
+      "genres": [
+        "security",
+        "python"
+      ]
+    },
+    {
+      "fullName": "jokerx6/fb-hacker",
+      "genres": [
+        "other",
+        "python"
+      ]
+    },
+    {
+      "fullName": "mvanhorn/last30days-skill",
+      "genres": [
+        "ai-agents",
+        "python"
+      ]
+    },
+    {
+      "fullName": "SahilH4ck4you/iOS-SSL-pinning-bypass-without-jalibreak",
+      "genres": [
+        "security",
+        "mobile-android"
+      ]
+    },
+    {
+      "fullName": "cyberark/FuzzyAI",
+      "genres": [
+        "llm-models",
+        "security",
+        "data-ml"
+      ]
+    },
+    {
+      "fullName": "baptisteArno/typebot.io",
+      "genres": [
+        "devops-selfhosted",
+        "typescript-javascript"
+      ]
+    },
+    {
+      "fullName": "KurtisLiggett/Simple-IP-Config",
+      "genres": [
+        "other"
+      ]
+    },
+    {
+      "fullName": "htr-tech/zphisher",
+      "genres": [
+        "security"
+      ]
+    },
+    {
+      "fullName": "CrimsonForge-io/king-phisher",
+      "genres": [
+        "security",
+        "python"
+      ]
+    },
+    {
+      "fullName": "0xDanielLopez/phishing_kits",
+      "genres": [
+        "security"
+      ]
+    },
+    {
+      "fullName": "umdia/passiveIncome",
+      "genres": [
+        "other"
+      ]
+    },
+    {
+      "fullName": "TurboNodes/Turbo",
+      "genres": [
+        "other",
+        "systems-rust-go-cpp"
+      ]
+    },
+    {
+      "fullName": "PoPzQ/Wifi-Cashbot",
+      "genres": [
+        "devops-selfhosted"
+      ]
+    },
+    {
+      "fullName": "kevinchwong/awesome-money-platforms",
+      "genres": [
+        "awesome-lists",
+        "llm-models",
+        "python"
+      ]
+    },
+    {
+      "fullName": "yourincomehome/awesome-passive-income",
+      "genres": [
+        "awesome-lists"
+      ]
+    },
+    {
+      "fullName": "MRColorR/money4band",
+      "genres": [
+        "devops-selfhosted",
+        "python"
+      ]
+    },
+    {
+      "fullName": "mezod/awesome-indie",
+      "genres": [
+        "awesome-lists"
+      ]
+    },
+    {
+      "fullName": "evildevill/EmptyPhish",
+      "genres": [
+        "security"
+      ]
+    },
+    {
+      "fullName": "AI4Risk/antifraud",
+      "genres": [
+        "other",
+        "python"
+      ]
+    },
+    {
+      "fullName": "spiritLHLS/honeygain-one-click-command-installation",
+      "genres": [
+        "other"
+      ]
+    },
+    {
+      "fullName": "htr-tech/nexphisher",
+      "genres": [
+        "security"
+      ]
+    },
+    {
+      "fullName": "rubenmarcus/malicious-repositories",
+      "genres": [
+        "other",
+        "typescript-javascript"
+      ]
+    },
+    {
+      "fullName": "engageub/InternetIncome",
+      "genres": [
+        "other"
+      ]
+    },
+    {
+      "fullName": "XternA/income-generator",
+      "genres": [
+        "cli-ides"
+      ]
+    },
+    {
+      "fullName": "xtekky/gpt4free",
+      "genres": [
+        "llm-models",
+        "python"
+      ]
+    },
+    {
+      "fullName": "xiangsx/gpt4free-ts",
+      "genres": [
+        "llm-models",
+        "typescript-javascript"
+      ]
+    },
+    {
+      "fullName": "wiresock/proxifyre",
+      "genres": [
+        "other",
+        "systems-rust-go-cpp"
+      ]
+    },
+    {
+      "fullName": "reshot2005/wifiblocktool",
+      "genres": [
+        "other"
+      ]
+    },
+    {
+      "fullName": "muraenateam/muraena",
+      "genres": [
+        "security",
+        "systems-rust-go-cpp"
+      ]
+    },
+    {
+      "fullName": "muraenateam/necrobrowser",
+      "genres": [
+        "other",
+        "typescript-javascript"
+      ]
+    },
+    {
+      "fullName": "rubenlagus/TelegramBots",
+      "genres": [
+        "osint-telegram"
+      ]
+    },
+    {
+      "fullName": "gsusI/Telegram-Group-or-Channel-users-to-CSV",
+      "genres": [
+        "osint-telegram",
+        "python"
+      ]
+    },
+    {
+      "fullName": "paperclipai/paperclip",
+      "genres": [
+        "ai-agents",
+        "typescript-javascript"
+      ]
+    },
+    {
+      "fullName": "NousResearch/hermes-agent",
+      "genres": [
+        "ai-agents",
+        "python"
+      ]
+    },
+    {
+      "fullName": "Prince-Mendiratta/X-tra-Telegram",
+      "genres": [
+        "osint-telegram",
+        "python"
+      ]
+    },
+    {
+      "fullName": "ITZ-ZAID/Telegram",
+      "genres": [
+        "osint-telegram",
+        "python"
+      ]
+    },
+    {
+      "fullName": "florvexdev/-Telegram-ID-get-MultiTool-Idstracebot-",
+      "genres": [
+        "osint-telegram"
+      ]
+    },
+    {
+      "fullName": "gaprj/TelegramChannelCloner",
+      "genres": [
+        "security",
+        "osint-telegram",
+        "python"
+      ]
+    },
+    {
+      "fullName": "BerriAI/litellm",
+      "genres": [
+        "llm-models",
+        "python"
+      ]
+    },
+    {
+      "fullName": "FujiwaraChoki/MoneyPrinterV2",
+      "genres": [
+        "other",
+        "python"
+      ]
+    },
+    {
+      "fullName": "freearhey/yandex-image-search",
+      "genres": [
+        "other",
+        "python"
+      ]
+    },
+    {
+      "fullName": "paulpierre/RasaGPT",
+      "genres": [
+        "ai-agents",
+        "llm-models",
+        "osint-telegram",
+        "python"
+      ]
+    },
+    {
+      "fullName": "paulpierre/awesome-cloudflare",
+      "genres": [
+        "awesome-lists"
+      ]
+    },
+    {
+      "fullName": "Mr3rf1/Spammer",
+      "genres": [
+        "other",
+        "python"
+      ]
+    },
+    {
+      "fullName": "Mr3rf1/GlitchMic",
+      "genres": [
+        "other",
+        "python"
+      ]
+    },
+    {
+      "fullName": "Mr3rf1/SecPhoto",
+      "genres": [
+        "osint-telegram",
+        "python"
+      ]
+    },
+    {
+      "fullName": "RiZoeLX/RiZoeLXSpam",
+      "genres": [
+        "osint-telegram",
+        "python"
+      ]
+    },
+    {
+      "fullName": "kastaid/pytel",
+      "genres": [
+        "other",
+        "python"
+      ]
+    },
+    {
+      "fullName": "kastaid/getter",
+      "genres": [
+        "osint-telegram",
+        "python"
+      ]
+    },
+    {
+      "fullName": "D3rise/distoken",
+      "genres": [
+        "llm-models",
+        "osint-telegram"
+      ]
+    },
+    {
+      "fullName": "D3rise/Telegram-AvatarWatch",
+      "genres": [
+        "osint-telegram",
+        "python"
+      ]
+    },
+    {
+      "fullName": "umputun/unfuck-ai-comments",
+      "genres": [
+        "other",
+        "systems-rust-go-cpp"
+      ]
+    },
+    {
+      "fullName": "umputun/local-docs-mcp",
+      "genres": [
+        "ai-agents",
+        "systems-rust-go-cpp"
+      ]
+    },
+    {
+      "fullName": "umputun/tg-spam",
+      "genres": [
+        "osint-telegram",
+        "systems-rust-go-cpp"
+      ]
+    },
+    {
+      "fullName": "paulpierre/informer",
+      "genres": [
+        "osint-telegram",
+        "python"
+      ]
+    },
+    {
+      "fullName": "kastaid/ds",
+      "genres": [
+        "other",
+        "python"
+      ]
+    },
+    {
+      "fullName": "Mr3rf1/TelReper",
+      "genres": [
+        "osint-telegram",
+        "python"
+      ]
+    },
+    {
+      "fullName": "RiZoeLX/SpamX",
+      "genres": [
+        "osint-telegram",
+        "python"
+      ]
+    },
+    {
+      "fullName": "layer7booter/free-ip-stresser",
+      "genres": [
+        "security",
+        "python"
+      ]
+    },
+    {
+      "fullName": "Hex1629/SOCKETEXPLODEv2_DOSTOOL",
+      "genres": [
+        "other",
+        "python"
+      ]
+    },
+    {
+      "fullName": "Hex1629/SOCKETPIE_DOSTOOL",
+      "genres": [
+        "other",
+        "python"
+      ]
+    },
+    {
+      "fullName": "sentrionic/ValkyrieApp",
+      "genres": [
+        "mobile-android"
+      ]
+    },
+    {
+      "fullName": "sentrionic/Valkyrie",
+      "genres": [
+        "osint-telegram",
+        "web-frontend",
+        "systems-rust-go-cpp"
+      ]
+    },
+    {
+      "fullName": "vxcontrol/pentagi",
+      "genres": [
+        "ai-agents",
+        "systems-rust-go-cpp"
+      ]
+    },
+    {
+      "fullName": "mcp-use/mcp-use-voice-assistant",
+      "genres": [
+        "ai-agents",
+        "python"
+      ]
+    },
+    {
+      "fullName": "bohd4nx/telegram-emoji-downloader",
+      "genres": [
+        "osint-telegram",
+        "python"
+      ]
+    },
+    {
+      "fullName": "pavel-odintsov/fastnetmon",
+      "genres": [
+        "other",
+        "systems-rust-go-cpp"
+      ]
+    },
+    {
+      "fullName": "palahsu/DDoS-Ripper",
+      "genres": [
+        "security",
+        "python"
+      ]
+    },
+    {
+      "fullName": "HyukIsBack/KARMA-DDoS",
+      "genres": [
+        "security",
+        "python"
+      ]
+    },
+    {
+      "fullName": "Err0r-ICA/DDoS",
+      "genres": [
+        "other"
+      ]
+    },
+    {
+      "fullName": "Err0r-ICA/Viridae",
+      "genres": [
+        "other"
+      ]
+    },
+    {
+      "fullName": "Err0r-ICA/CCTV",
+      "genres": [
+        "other",
+        "python"
+      ]
+    },
+    {
+      "fullName": "Err0r-ICA/Ransomware",
+      "genres": [
+        "security"
+      ]
+    },
+    {
+      "fullName": "mauri870/ransomware",
+      "genres": [
+        "security",
+        "systems-rust-go-cpp"
+      ]
+    },
+    {
+      "fullName": "hackclub/ai",
+      "genres": [
+        "other",
+        "typescript-javascript"
+      ]
+    },
+    {
+      "fullName": "yoanbernabeu/supabase-pentest-skills",
+      "genres": [
+        "ai-agents",
+        "security",
+        "cli-ides"
+      ]
+    },
+    {
+      "fullName": "nbs32k/Petya2",
+      "genres": [
+        "security",
+        "systems-rust-go-cpp"
+      ]
+    },
+    {
+      "fullName": "0x4m4/hexstrike-ai",
+      "genres": [
+        "ai-agents",
+        "llm-models",
+        "security",
+        "python"
+      ]
+    },
+    {
+      "fullName": "Nekmo/telegram-upload",
+      "genres": [
+        "osint-telegram",
+        "python"
+      ]
+    },
+    {
+      "fullName": "sw1tch3roo/tg-message-lifeguard",
+      "genres": [
+        "osint-telegram",
+        "python"
+      ]
+    },
+    {
+      "fullName": "TakSec/Prompt-Injection-Everywhere",
+      "genres": [
+        "other"
+      ]
+    },
+    {
+      "fullName": "nordsecgroup/ableton-companion",
+      "genres": [
+        "other",
+        "python"
+      ]
+    },
+    {
+      "fullName": "megahomyak/tg_auth_api",
+      "genres": [
+        "osint-telegram",
+        "python"
+      ]
+    },
+    {
+      "fullName": "mgilangjanuar/teledrive",
+      "genres": [
+        "osint-telegram",
+        "web-frontend"
+      ]
+    },
+    {
+      "fullName": "serjs/socks5-server",
+      "genres": [
+        "other",
+        "systems-rust-go-cpp"
+      ]
+    },
+    {
+      "fullName": "NightfallGT/Discord-Account-Generator",
+      "genres": [
+        "osint-telegram",
+        "python"
+      ]
+    },
+    {
+      "fullName": "sobirjonovme/FontChanger_bot",
+      "genres": [
+        "osint-telegram",
+        "python"
+      ]
+    },
+    {
+      "fullName": "zebbern/pip-error-fixes",
+      "genres": [
+        "other"
+      ]
+    },
+    {
+      "fullName": "zebbern/pythonfix",
+      "genres": [
+        "other"
+      ]
+    },
+    {
+      "fullName": "zebbern/captcha-bypass",
+      "genres": [
+        "security",
+        "python"
+      ]
+    },
+    {
+      "fullName": "zebbern/temp-mail",
+      "genres": [
+        "other",
+        "python"
+      ]
+    },
+    {
+      "fullName": "zebbern/cli-temp-mails",
+      "genres": [
+        "cli-ides",
+        "python"
+      ]
+    },
+    {
+      "fullName": "zebbern/captcha-solver",
+      "genres": [
+        "other",
+        "python"
+      ]
+    },
+    {
+      "fullName": "zebbern/Github-Token-Validator",
+      "genres": [
+        "llm-models",
+        "python"
+      ]
+    },
+    {
+      "fullName": "zebbern/discord-mcp-agent",
+      "genres": [
+        "ai-agents",
+        "osint-telegram",
+        "cli-ides",
+        "python"
+      ]
+    },
+    {
+      "fullName": "zebbern/no-cost-ai",
+      "genres": [
+        "other"
+      ]
+    },
+    {
+      "fullName": "KoStard/TelegramExerciseManager",
+      "genres": [
+        "osint-telegram",
+        "python"
+      ]
+    },
+    {
+      "fullName": "samc621/SneakerBot",
+      "genres": [
+        "other",
+        "typescript-javascript"
+      ]
+    },
+    {
+      "fullName": "The-Osint-Toolbox/Telegram-OSINT",
+      "genres": [
+        "osint-telegram"
+      ]
+    },
+    {
+      "fullName": "neondatabase/neon",
+      "genres": [
+        "other",
+        "systems-rust-go-cpp"
+      ]
+    },
+    {
+      "fullName": "bee-san/Ciphey",
+      "genres": [
+        "other",
+        "systems-rust-go-cpp"
+      ]
+    },
+    {
+      "fullName": "Jeomon/Windows-Use",
+      "genres": [
+        "ai-agents",
+        "python"
+      ]
+    },
+    {
+      "fullName": "CursorTouch/Windows-MCP",
+      "genres": [
+        "ai-agents",
+        "python"
+      ]
+    },
+    {
+      "fullName": "Pyrra00/Pyrra-v1.0",
+      "genres": [
+        "other",
+        "python"
+      ]
+    },
+    {
+      "fullName": "Mordekai66/design2apps",
+      "genres": [
+        "other",
+        "python"
+      ]
+    },
+    {
+      "fullName": "sherlock-project/sherlock",
+      "genres": [
+        "osint-telegram",
+        "python"
+      ]
+    },
+    {
+      "fullName": "SaseQ/discord-mcp",
+      "genres": [
+        "ai-agents",
+        "osint-telegram"
+      ]
+    },
+    {
+      "fullName": "github/spec-kit",
+      "genres": [
+        "other",
+        "python"
+      ]
+    },
+    {
+      "fullName": "doobidoo/mcp-memory-service",
+      "genres": [
+        "ai-agents",
+        "python"
+      ]
+    },
+    {
+      "fullName": "VeNoMouS/cloudscraper",
+      "genres": [
+        "security",
+        "python"
+      ]
+    },
+    {
+      "fullName": "fullopsec/UniversalWakeOnLan",
+      "genres": [
+        "osint-telegram",
+        "python"
+      ]
+    },
+    {
+      "fullName": "sandy-sp/metadata-cleaner",
+      "genres": [
+        "cli-ides",
+        "python"
+      ]
+    },
+    {
+      "fullName": "nayuki/QR-Code-generator",
+      "genres": [
+        "other"
+      ]
+    },
+    {
+      "fullName": "cablate/mcp-google-map",
+      "genres": [
+        "ai-agents",
+        "llm-models",
+        "typescript-javascript"
+      ]
+    },
+    {
+      "fullName": "adhikasp/mcp-git-ingest",
+      "genres": [
+        "ai-agents",
+        "python"
+      ]
+    },
+    {
+      "fullName": "Kini218/speech-to-text",
+      "genres": [
+        "other",
+        "python"
+      ]
+    },
+    {
+      "fullName": "v-3/discordmcp",
+      "genres": [
+        "ai-agents",
+        "osint-telegram",
+        "typescript-javascript"
+      ]
+    },
+    {
+      "fullName": "adhikasp/mcp-reddit",
+      "genres": [
+        "ai-agents",
+        "python"
+      ]
+    },
+    {
+      "fullName": "chigwell/telegram-mcp",
+      "genres": [
+        "ai-agents",
+        "osint-telegram",
+        "python"
+      ]
+    },
+    {
+      "fullName": "cloudflare/mcp-server-cloudflare",
+      "genres": [
+        "ai-agents",
+        "typescript-javascript"
+      ]
+    },
+    {
+      "fullName": "megadose/ignorant",
+      "genres": [
+        "other",
+        "python"
+      ]
+    },
+    {
+      "fullName": "node-modules/utility",
+      "genres": [
+        "other",
+        "typescript-javascript"
+      ]
+    },
+    {
+      "fullName": "Sidneys1/SidebarDiagnostics",
+      "genres": [
+        "other"
+      ]
+    },
+    {
+      "fullName": "bestK/cursor-fake-machine",
+      "genres": [
+        "cli-ides",
+        "typescript-javascript"
+      ]
+    },
+    {
+      "fullName": "TheWover/donut",
+      "genres": [
+        "other",
+        "systems-rust-go-cpp"
+      ]
+    },
+    {
+      "fullName": "weaveworks/grafanalib",
+      "genres": [
+        "devops-selfhosted",
+        "python"
+      ]
+    },
+    {
+      "fullName": "tigco/telegram-bot-on-replit",
+      "genres": [
+        "osint-telegram",
+        "python"
+      ]
+    },
+    {
+      "fullName": "riobits/Telegram-Web-API-Cheatsheet",
+      "genres": [
+        "osint-telegram",
+        "learning"
+      ]
+    },
+    {
+      "fullName": "grammyjs/web-app",
+      "genres": [
+        "osint-telegram",
+        "typescript-javascript"
+      ]
+    },
+    {
+      "fullName": "soxoj/maigret",
+      "genres": [
+        "other",
+        "python"
+      ]
+    },
+    {
+      "fullName": "ELMERIKH/TelecordC2",
+      "genres": [
+        "security",
+        "osint-telegram",
+        "systems-rust-go-cpp"
+      ]
+    },
+    {
+      "fullName": "superswan/tgc2-telegram-c2",
+      "genres": [
+        "ai-agents",
+        "security",
+        "osint-telegram",
+        "python"
+      ]
+    },
+    {
+      "fullName": "shadcn-ui/ui",
+      "genres": [
+        "other",
+        "typescript-javascript"
+      ]
+    },
+    {
+      "fullName": "Pr0t0ns/Pr0t0n-Discord-Token-Generator",
+      "genres": [
+        "llm-models",
+        "osint-telegram",
+        "python"
+      ]
+    },
+    {
+      "fullName": "Flangvik/QRucible",
+      "genres": [
+        "other",
+        "python"
+      ]
+    },
+    {
+      "fullName": "Flangvik/AMSI.fail",
+      "genres": [
+        "other"
+      ]
+    },
+    {
+      "fullName": "chainski/AES-Encoder",
+      "genres": [
+        "other"
+      ]
+    },
+    {
+      "fullName": "ParsingTeam/TeleShadow3",
+      "genres": [
+        "other"
+      ]
+    },
+    {
+      "fullName": "KINGSABRI/creds-harvester",
+      "genres": [
+        "security"
+      ]
+    },
+    {
+      "fullName": "hoodoer/JS-Tap",
+      "genres": [
+        "security",
+        "typescript-javascript"
+      ]
+    },
+    {
+      "fullName": "SuperLambo190DDD/Stealer",
+      "genres": [
+        "other",
+        "python"
+      ]
+    },
+    {
+      "fullName": "chaosbuffalolabs/ParticlePanda",
+      "genres": [
+        "other",
+        "python"
+      ]
+    },
+    {
+      "fullName": "reflex-dev/reflex",
+      "genres": [
+        "other",
+        "python"
+      ]
+    },
+    {
+      "fullName": "redcode-labs/Sammler",
+      "genres": [
+        "other",
+        "systems-rust-go-cpp"
+      ]
+    },
+    {
+      "fullName": "droberson/Awesome-anti-forensic",
+      "genres": [
+        "awesome-lists",
+        "security"
+      ]
+    },
+    {
+      "fullName": "sietseringers/MACAddressTool",
+      "genres": [
+        "other"
+      ]
+    },
+    {
+      "fullName": "aiogram/aiogram",
+      "genres": [
+        "osint-telegram",
+        "python"
+      ]
+    },
+    {
+      "fullName": "ferisystem/WhisperBot",
+      "genres": [
+        "llm-models",
+        "osint-telegram",
+        "python"
+      ]
+    },
+    {
+      "fullName": "AUTOMATIC1111/stable-diffusion-webui",
+      "genres": [
+        "llm-models",
+        "python"
+      ]
+    },
+    {
+      "fullName": "shabane/upload-to-telegram",
+      "genres": [
+        "osint-telegram",
+        "data-ml"
+      ]
+    },
+    {
+      "fullName": "Xylon-404/FB_REPORT",
+      "genres": [
+        "other",
+        "python"
+      ]
+    },
+    {
+      "fullName": "tencent-ailab/persona-hub",
+      "genres": [
+        "other",
+        "python"
+      ]
+    },
+    {
+      "fullName": "Xylon-404/TG_NAME_CHANGE",
+      "genres": [
+        "osint-telegram",
+        "python"
+      ]
+    },
+    {
+      "fullName": "agniveshsp/Reddit-to-Telegram-Bot",
+      "genres": [
+        "osint-telegram",
+        "python"
+      ]
+    },
+    {
+      "fullName": "mm4130/Telegram-YoutubeDL",
+      "genres": [
+        "osint-telegram",
+        "python"
+      ]
+    },
+    {
+      "fullName": "wasiqonx/Telegram-Banner-Bot",
+      "genres": [
+        "osint-telegram",
+        "python"
+      ]
+    },
+    {
+      "fullName": "fasilminale/ExportTelegramContacts",
+      "genres": [
+        "osint-telegram",
+        "python"
+      ]
+    },
+    {
+      "fullName": "fasilminale/ExportTelegramUsers",
+      "genres": [
+        "osint-telegram",
+        "python"
+      ]
+    },
+    {
+      "fullName": "Sidneys1/signal-bot",
+      "genres": [
+        "osint-telegram",
+        "cli-ides",
+        "python"
+      ]
+    },
+    {
+      "fullName": "SerjoPepper/bot-brother",
+      "genres": [
+        "osint-telegram"
+      ]
+    },
+    {
+      "fullName": "upx/upx",
+      "genres": [
+        "other",
+        "systems-rust-go-cpp"
+      ]
+    },
+    {
+      "fullName": "SygniaLabs/evilginx3",
+      "genres": [
+        "security",
+        "systems-rust-go-cpp"
+      ]
+    },
+    {
+      "fullName": "ParsingTeam/TeleShadow2",
+      "genres": [
+        "osint-telegram"
+      ]
+    },
+    {
+      "fullName": "g0vguy/Telegram_1-Click_Vulnerability",
+      "genres": [
+        "security",
+        "osint-telegram",
+        "python"
+      ]
+    },
+    {
+      "fullName": "KarlenNersisyan/fake-telegram",
+      "genres": [
+        "osint-telegram",
+        "web-frontend",
+        "typescript-javascript"
+      ]
+    },
+    {
+      "fullName": "eraxio/TelegramSpam",
+      "genres": [
+        "other"
+      ]
+    },
+    {
+      "fullName": "klauer/qtpynodeeditor",
+      "genres": [
+        "other",
+        "python"
+      ]
+    },
+    {
+      "fullName": "hackerxphantom/X-IG-OSINT",
+      "genres": [
+        "osint-telegram",
+        "python"
+      ]
+    },
+    {
+      "fullName": "TheQmaks/phishgram",
+      "genres": [
+        "security",
+        "osint-telegram",
+        "typescript-javascript"
+      ]
+    },
+    {
+      "fullName": "Foile/crypto-pay-api",
+      "genres": [
+        "other",
+        "typescript-javascript"
+      ]
+    },
+    {
+      "fullName": "EDM115/ban-all-except-admins",
+      "genres": [
+        "osint-telegram",
+        "python"
+      ]
+    },
+    {
+      "fullName": "Hundter/MitID-ReverseEngineered",
+      "genres": [
+        "other",
+        "python"
+      ]
+    },
+    {
+      "fullName": "Hundter/MitID-BrowserClient",
+      "genres": [
+        "other",
+        "python"
+      ]
+    },
+    {
+      "fullName": "fin3ss3g0d/evilgophish",
+      "genres": [
+        "other",
+        "systems-rust-go-cpp"
+      ]
+    },
+    {
+      "fullName": "42wim/matterbridge",
+      "genres": [
+        "osint-telegram",
+        "systems-rust-go-cpp"
+      ]
+    },
+    {
+      "fullName": "GirirajRavichandran/Narashima",
+      "genres": [
+        "other"
+      ]
+    },
+    {
+      "fullName": "codebam/cf-workers-telegram-bot",
+      "genres": [
+        "osint-telegram",
+        "typescript-javascript"
+      ]
+    },
+    {
+      "fullName": "R00tS3c/DDOS-RootSec",
+      "genres": [
+        "other",
+        "systems-rust-go-cpp"
+      ]
+    },
+    {
+      "fullName": "cvzi/telegram-bot-cloudflare",
+      "genres": [
+        "osint-telegram",
+        "typescript-javascript"
+      ]
+    },
+    {
+      "fullName": "1d8/teleRAT",
+      "genres": [
+        "osint-telegram",
+        "python"
+      ]
+    },
+    {
+      "fullName": "f4rber/Telegram_RAT_Python",
+      "genres": [
+        "osint-telegram",
+        "python"
+      ]
+    },
+    {
+      "fullName": "norouzex/multi-telegram-bot-manager",
+      "genres": [
+        "osint-telegram",
+        "python"
+      ]
+    },
+    {
+      "fullName": "yagop/node-telegram-bot-api",
+      "genres": [
+        "osint-telegram",
+        "typescript-javascript"
+      ]
+    },
+    {
+      "fullName": "python-telegram-bot/python-telegram-bot",
+      "genres": [
+        "osint-telegram",
+        "python"
+      ]
+    },
+    {
+      "fullName": "TheSpeedX/TBomb",
+      "genres": [
+        "mobile-android",
+        "cli-ides",
+        "python"
+      ]
+    },
+    {
+      "fullName": "noarchwastaken/TGpyrate",
+      "genres": [
+        "osint-telegram",
+        "python"
+      ]
+    },
+    {
+      "fullName": "bats3c/shad0w",
+      "genres": [
+        "other",
+        "systems-rust-go-cpp"
+      ]
+    },
+    {
+      "fullName": "quasar/Quasar",
+      "genres": [
+        "other"
+      ]
+    },
+    {
+      "fullName": "KuroLabs/stegcloak",
+      "genres": [
+        "other",
+        "typescript-javascript"
+      ]
+    },
+    {
+      "fullName": "redcode-labs/SNOWCRASH",
+      "genres": [
+        "security",
+        "systems-rust-go-cpp"
+      ]
+    },
+    {
+      "fullName": "4m3rr0r/zero-setup",
+      "genres": [
+        "other"
+      ]
+    },
+    {
+      "fullName": "Linuxmaster14/TGForwarder",
+      "genres": [
+        "llm-models",
+        "osint-telegram",
+        "python"
+      ]
+    },
+    {
+      "fullName": "esfelurm/Reporter-Telegram",
+      "genres": [
+        "osint-telegram",
+        "python"
+      ]
+    },
+    {
+      "fullName": "xming521/WeClone",
+      "genres": [
+        "llm-models",
+        "python"
+      ]
+    },
+    {
+      "fullName": "SMR-H/Telegram-Members-Adder",
+      "genres": [
+        "osint-telegram",
+        "python"
+      ]
+    },
+    {
+      "fullName": "aiexz/telebackup",
+      "genres": [
+        "osint-telegram",
+        "systems-rust-go-cpp"
+      ]
+    },
+    {
+      "fullName": "AbhiTheModder/tgbackup_bot",
+      "genres": [
+        "osint-telegram",
+        "python"
+      ]
+    },
+    {
+      "fullName": "svtcore/telegram-forward-channel-messages",
+      "genres": [
+        "osint-telegram",
+        "python"
+      ]
+    },
+    {
+      "fullName": "N4rr34n6/TelegramBackup",
+      "genres": [
+        "osint-telegram"
+      ]
+    },
+    {
+      "fullName": "psamim/telegram-cli-backup",
+      "genres": [
+        "osint-telegram",
+        "cli-ides"
+      ]
+    },
+    {
+      "fullName": "Grey-Time/Telethon-Channel-Clone",
+      "genres": [
+        "osint-telegram",
+        "python"
+      ]
+    },
+    {
+      "fullName": "matheusbach/clonechat",
+      "genres": [
+        "osint-telegram",
+        "python"
+      ]
+    },
+    {
+      "fullName": "ohld/telegram-support-bot",
+      "genres": [
+        "osint-telegram",
+        "python"
+      ]
+    },
+    {
+      "fullName": "viperadnan-git/telegram-message-forwarder-bot",
+      "genres": [
+        "osint-telegram",
+        "python"
+      ]
+    },
+    {
+      "fullName": "m1guelpf/chatgpt-telegram",
+      "genres": [
+        "osint-telegram",
+        "systems-rust-go-cpp"
+      ]
+    },
+    {
+      "fullName": "DinoTools/dionaea",
+      "genres": [
+        "other",
+        "python"
+      ]
+    },
+    {
+      "fullName": "mvt-project/mvt",
+      "genres": [
+        "mobile-android",
+        "python"
+      ]
+    },
+    {
+      "fullName": "KeygraphHQ/shannon",
+      "genres": [
+        "security",
+        "typescript-javascript"
+      ]
+    },
+    {
+      "fullName": "GoutamHX/MAXXRAT",
+      "genres": [
+        "mobile-android"
+      ]
+    },
+    {
+      "fullName": "NYAN-x-CAT/Lime-RAT",
+      "genres": [
+        "other"
+      ]
+    },
+    {
+      "fullName": "RevilhunterOp/REVIL-MULTISPAM-BOT",
+      "genres": [
+        "osint-telegram",
+        "python"
+      ]
+    },
+    {
+      "fullName": "ItsOrv/Telegram-Panel",
+      "genres": [
+        "osint-telegram",
+        "python"
+      ]
+    },
+    {
+      "fullName": "dfrnoch/animated-status",
+      "genres": [
+        "other",
+        "python"
+      ]
+    },
+    {
+      "fullName": "dfrnoch/accounting",
+      "genres": [
+        "web-frontend"
+      ]
+    },
+    {
+      "fullName": "dfrnoch/nitro-generator",
+      "genres": [
+        "osint-telegram",
+        "python"
+      ]
+    },
+    {
+      "fullName": "redf0x1/camofox-mcp",
+      "genres": [
+        "ai-agents",
+        "typescript-javascript"
+      ]
+    },
+    {
+      "fullName": "redf0x1/Auto-Forward-Messages",
+      "genres": [
+        "osint-telegram"
+      ]
+    },
+    {
+      "fullName": "SamNet-dev/MTProxyMax",
+      "genres": [
+        "osint-telegram"
+      ]
+    },
+    {
+      "fullName": "baatout/tor-ip-rotation-python-example",
+      "genres": [
+        "other",
+        "python"
+      ]
+    },
+    {
+      "fullName": "CatUnderTheLeaf/telegram_channel_backup",
+      "genres": [
+        "osint-telegram",
+        "devops-selfhosted",
+        "python"
+      ]
+    },
+    {
+      "fullName": "XDavidT/TelegramChannelBackup",
+      "genres": [
+        "osint-telegram",
+        "python"
+      ]
+    },
+    {
+      "fullName": "amirdecoder/Telegram-channel-backup",
+      "genres": [
+        "osint-telegram",
+        "python"
+      ]
+    },
+    {
+      "fullName": "telemmx/telemmx",
+      "genres": [
+        "osint-telegram"
+      ]
+    },
+    {
+      "fullName": "batreller/AndroidTelePorter",
+      "genres": [
+        "osint-telegram",
+        "mobile-android",
+        "python"
+      ]
+    },
+    {
+      "fullName": "SnoppyForkOnly/Forked_telegram_android_session_converter",
+      "genres": [
+        "osint-telegram",
+        "mobile-android"
+      ]
+    },
+    {
+      "fullName": "ZappaBoy/telegram-flooder",
+      "genres": [
+        "osint-telegram",
+        "python"
+      ]
+    },
+    {
+      "fullName": "D3rise/teleflood",
+      "genres": [
+        "osint-telegram",
+        "python"
+      ]
+    },
+    {
+      "fullName": "Mustafa1p/DDOS-Telegram-BOT",
+      "genres": [
+        "llm-models",
+        "security",
+        "osint-telegram",
+        "python"
+      ]
+    },
+    {
+      "fullName": "group-butler/GroupButler",
+      "genres": [
+        "other"
+      ]
+    },
+    {
+      "fullName": "MrMissx/Telegram_Forwarder",
+      "genres": [
+        "osint-telegram",
+        "python"
+      ]
+    },
+    {
+      "fullName": "edogab33/telegram-groups-crawler",
+      "genres": [
+        "osint-telegram",
+        "python"
+      ]
+    },
+    {
+      "fullName": "hunjison/Messenger-Forensics",
+      "genres": [
+        "security",
+        "osint-telegram",
+        "python"
+      ]
+    },
+    {
+      "fullName": "shitpostingio/autopostingbot",
+      "genres": [
+        "osint-telegram",
+        "systems-rust-go-cpp"
+      ]
+    },
+    {
+      "fullName": "telegramdesktop/tdesktop",
+      "genres": [
+        "osint-telegram",
+        "systems-rust-go-cpp"
+      ]
+    },
+    {
+      "fullName": "bbernhard/signal-cli-rest-api",
+      "genres": [
+        "osint-telegram",
+        "cli-ides",
+        "systems-rust-go-cpp"
+      ]
+    },
+    {
+      "fullName": "bellingcat/telegram-phone-number-checker",
+      "genres": [
+        "osint-telegram",
+        "python"
+      ]
+    },
+    {
+      "fullName": "modemobpsycho/aiogram3-tg-bot-store",
+      "genres": [
+        "osint-telegram",
+        "python"
+      ]
+    },
+    {
+      "fullName": "interlumpen/Telegram-shop-Physical",
+      "genres": [
+        "osint-telegram",
+        "python"
+      ]
+    },
+    {
+      "fullName": "TheSpeedX/PROXY-List",
+      "genres": [
+        "other"
+      ]
+    },
+    {
+      "fullName": "Gowtham0625/Miss-Rose-Bot",
+      "genres": [
+        "osint-telegram"
+      ]
+    },
+    {
+      "fullName": "er4vn/TeleStrike",
+      "genres": [
+        "security",
+        "osint-telegram"
+      ]
+    },
+    {
+      "fullName": "Er-Simon/Telegram-Member-Booster",
+      "genres": [
+        "osint-telegram",
+        "python"
+      ]
+    },
+    {
+      "fullName": "HappyTetrahedron/order_bot",
+      "genres": [
+        "osint-telegram",
+        "python"
+      ]
+    },
+    {
+      "fullName": "Graf2112/Open-AI-API-Telegram-Bot",
+      "genres": [
+        "llm-models",
+        "osint-telegram",
+        "systems-rust-go-cpp"
+      ]
+    },
+    {
+      "fullName": "javascript-obfuscator/javascript-obfuscator",
+      "genres": [
+        "other",
+        "typescript-javascript"
+      ]
+    },
+    {
+      "fullName": "slimsevernake/SuperCoinbot",
+      "genres": [
+        "other",
+        "python"
+      ]
+    },
+    {
+      "fullName": "slimsevernake/Web-application-for-crating-shop-bot-in-telegram-",
+      "genres": [
+        "osint-telegram",
+        "typescript-javascript"
+      ]
+    },
+    {
+      "fullName": "slimsevernake/Stealer-of-sessions-of-the-Telegram",
+      "genres": [
+        "osint-telegram",
+        "systems-rust-go-cpp"
+      ]
+    },
+    {
+      "fullName": "drk1wi/Modlishka",
+      "genres": [
+        "other",
+        "systems-rust-go-cpp"
+      ]
+    },
+    {
+      "fullName": "error1001es/teleghoul",
+      "genres": [
+        "other",
+        "python"
+      ]
+    },
+    {
+      "fullName": "Ghost-Bear/telegram-stealer",
+      "genres": [
+        "osint-telegram",
+        "python"
+      ]
+    },
+    {
+      "fullName": "atilaromero/telegram-desktop-decrypt",
+      "genres": [
+        "osint-telegram",
+        "systems-rust-go-cpp"
+      ]
+    },
+    {
+      "fullName": "beigeworm/PoshGram-C2",
+      "genres": [
+        "security",
+        "osint-telegram"
+      ]
+    },
+    {
+      "fullName": "antoniaci/blackbird",
+      "genres": [
+        "osint-telegram",
+        "python"
+      ]
+    },
+    {
+      "fullName": "esfelurm/BOTECS",
+      "genres": [
+        "osint-telegram",
+        "python"
+      ]
+    },
+    {
+      "fullName": "TapuCosmo/signal-bot",
+      "genres": [
+        "llm-models",
+        "osint-telegram",
+        "typescript-javascript"
+      ]
+    },
+    {
+      "fullName": "Zeeshanahmad4/TeleAdminPanel-Advanced-Telegram-Bot-Administration",
+      "genres": [
+        "osint-telegram",
+        "typescript-javascript"
+      ]
+    },
+    {
+      "fullName": "ruwiss/ai-auto-free",
+      "genres": [
+        "llm-models",
+        "security",
+        "cli-ides",
+        "typescript-javascript"
+      ]
+    },
+    {
+      "fullName": "navin-hariharan/Master-Bomber",
+      "genres": [
+        "other",
+        "python"
+      ]
+    },
+    {
+      "fullName": "AhMyth/AhMyth-Android-RAT",
+      "genres": [
+        "mobile-android"
+      ]
+    },
+    {
+      "fullName": "kizzx2/docker-wireguard-socks-proxy",
+      "genres": [
+        "devops-selfhosted"
+      ]
+    },
+    {
+      "fullName": "The-Osint-Toolbox/OSINT-Browser-Extensions",
+      "genres": [
+        "osint-telegram"
+      ]
+    },
+    {
+      "fullName": "BecodoExploit-mrCAT/OPSEC",
+      "genres": [
+        "other"
+      ]
+    },
+    {
+      "fullName": "aforensics/HiddenVM",
+      "genres": [
+        "other"
+      ]
+    },
+    {
+      "fullName": "hashicorp/vault",
+      "genres": [
+        "other",
+        "systems-rust-go-cpp"
+      ]
+    },
+    {
+      "fullName": "gurland/telegram-delete-all-messages",
+      "genres": [
+        "osint-telegram",
+        "python"
+      ]
+    },
+    {
+      "fullName": "th3unkn0n/TeleGram-Scraper",
+      "genres": [
+        "osint-telegram",
+        "python"
+      ]
+    },
+    {
+      "fullName": "dmnvpro/tg-broadcast-limits",
+      "genres": [
+        "osint-telegram",
+        "typescript-javascript"
+      ]
+    },
+    {
+      "fullName": "jekidev/wolt-react-native",
+      "genres": [
+        "mobile-android",
+        "web-frontend"
+      ]
+    },
+    {
+      "fullName": "erfan4lx/Telegram-channel-members-extractor",
+      "genres": [
+        "osint-telegram",
+        "python"
+      ]
+    },
+    {
+      "fullName": "FrosT2k5/pingme_bot",
+      "genres": [
+        "osint-telegram",
+        "python"
+      ]
+    },
+    {
+      "fullName": "Hagadmansa/FileShareBot",
+      "genres": [
+        "osint-telegram",
+        "python"
+      ]
+    },
+    {
+      "fullName": "VUvjyordan/telegram-username-checker",
+      "genres": [
+        "osint-telegram",
+        "python"
+      ]
+    },
+    {
+      "fullName": "Kisspeace/accless-tg-scraper",
+      "genres": [
+        "llm-models",
+        "osint-telegram",
+        "python"
+      ]
+    },
+    {
+      "fullName": "witblack/Anonymous-Telegram-Viewer",
+      "genres": [
+        "osint-telegram",
+        "python"
+      ]
+    },
+    {
+      "fullName": "xditya/ChannelAutoPost",
+      "genres": [
+        "osint-telegram",
+        "python"
+      ]
+    },
+    {
+      "fullName": "fabianonline/telegram_backup",
+      "genres": [
+        "osint-telegram",
+        "mobile-android"
+      ]
+    },
+    {
+      "fullName": "saksham2410/AutoForwarder-TelegramBot",
+      "genres": [
+        "other",
+        "python"
+      ]
+    },
+    {
+      "fullName": "3281448091/Discord-Token-Gen",
+      "genres": [
+        "llm-models",
+        "osint-telegram",
+        "python"
+      ]
+    },
+    {
+      "fullName": "MatrixTM/MHDDoS",
+      "genres": [
+        "security",
+        "python"
+      ]
+    },
+    {
+      "fullName": "esfelurm/android-ransomware",
+      "genres": [
+        "security",
+        "mobile-android",
+        "python"
+      ]
+    },
+    {
+      "fullName": "palahsu/MBomb",
+      "genres": [
+        "other",
+        "python"
+      ]
+    },
+    {
+      "fullName": "shivaya-dav/DogeRat",
+      "genres": [
+        "osint-telegram",
+        "mobile-android"
+      ]
+    },
+    {
+      "fullName": "grisuno/ShadowLink",
+      "genres": [
+        "security"
+      ]
+    },
+    {
+      "fullName": "kgretzky/evilginx2",
+      "genres": [
+        "security",
+        "systems-rust-go-cpp"
+      ]
+    },
+    {
+      "fullName": "ReversecLabs/C3",
+      "genres": [
+        "security",
+        "systems-rust-go-cpp"
+      ]
+    },
+    {
+      "fullName": "LAION-AI/Discord-Scrapers",
+      "genres": [
+        "osint-telegram",
+        "python"
+      ]
+    },
+    {
+      "fullName": "Shadylukin/Neumann",
+      "genres": [
+        "other",
+        "systems-rust-go-cpp"
+      ]
+    },
+    {
+      "fullName": "remotion-dev/remotion",
+      "genres": [
+        "web-frontend",
+        "typescript-javascript"
+      ]
+    },
+    {
+      "fullName": "browser-use/browser-use",
+      "genres": [
+        "ai-agents",
+        "python"
+      ]
+    },
+    {
+      "fullName": "anonymousproo/IP-Tracker",
+      "genres": [
+        "mobile-android",
+        "cli-ides",
+        "python"
+      ]
+    },
+    {
+      "fullName": "1N3/BruteX",
+      "genres": [
+        "other"
+      ]
+    },
+    {
+      "fullName": "iOS17/Jailbreak",
+      "genres": [
+        "mobile-android"
+      ]
+    },
+    {
+      "fullName": "iOS17/MisakaX",
+      "genres": [
+        "security",
+        "mobile-android"
+      ]
+    },
+    {
+      "fullName": "utsur0/Anti-Apple-Revoke",
+      "genres": [
+        "mobile-android"
+      ]
+    },
+    {
+      "fullName": "opa334/TrollStore",
+      "genres": [
+        "mobile-android"
+      ]
+    },
+    {
+      "fullName": "veracrypt/VeraCrypt",
+      "genres": [
+        "security",
+        "systems-rust-go-cpp"
+      ]
+    },
+    {
+      "fullName": "maysam/informant",
+      "genres": [
+        "osint-telegram",
+        "python"
+      ]
+    },
+    {
+      "fullName": "WebBreacher/WhatsMyName",
+      "genres": [
+        "osint-telegram",
+        "data-ml",
+        "python"
+      ]
+    },
+    {
+      "fullName": "PatrickJS/awesome-cursorrules",
+      "genres": [
+        "awesome-lists",
+        "cli-ides",
+        "typescript-javascript"
+      ]
+    },
+    {
+      "fullName": "skybr34k3r/DeadManSwitch",
+      "genres": [
+        "security",
+        "osint-telegram",
+        "python"
+      ]
+    },
+    {
+      "fullName": "flarum/flarum",
+      "genres": [
+        "other"
+      ]
+    },
+    {
+      "fullName": "borisdayma/dalle-mini",
+      "genres": [
+        "other",
+        "python"
+      ]
+    },
+    {
+      "fullName": "thelinuxuser-choice/hidephish",
+      "genres": [
+        "security",
+        "python"
+      ]
+    },
+    {
+      "fullName": "alks801/telegram-seller",
+      "genres": [
+        "osint-telegram",
+        "typescript-javascript"
+      ]
+    },
+    {
+      "fullName": "go-pkgz/auth",
+      "genres": [
+        "osint-telegram",
+        "systems-rust-go-cpp"
+      ]
+    },
+    {
+      "fullName": "skelethorin/Forum",
+      "genres": [
+        "other"
+      ]
+    },
+    {
+      "fullName": "SelmiAbderrahim/Free-Forum-Template",
+      "genres": [
+        "other"
+      ]
+    },
+    {
+      "fullName": "cracker911181/Cracker-Tool",
+      "genres": [
+        "other",
+        "python"
+      ]
+    },
+    {
+      "fullName": "better-auth/better-auth",
+      "genres": [
+        "other",
+        "typescript-javascript"
+      ]
+    },
+    {
+      "fullName": "openai/openai-chatkit-advanced-samples",
+      "genres": [
+        "other"
+      ]
+    },
+    {
+      "fullName": "openai/chatkit-js",
+      "genres": [
+        "other",
+        "typescript-javascript"
+      ]
+    },
+    {
+      "fullName": "silverxcyber/silvertgosint",
+      "genres": [
+        "osint-telegram",
+        "python"
+      ]
+    },
+    {
+      "fullName": "duplxey/NForum",
+      "genres": [
+        "other",
+        "python"
+      ]
+    },
+    {
+      "fullName": "abhinavsingh/proxy.py",
+      "genres": [
+        "other",
+        "python"
+      ]
+    },
+    {
+      "fullName": "Anon4You/Snatcher",
+      "genres": [
+        "other"
+      ]
+    },
+    {
+      "fullName": "typpo/textbelt",
+      "genres": [
+        "other",
+        "typescript-javascript"
+      ]
+    },
+    {
+      "fullName": "21y4d/nmapAutomator",
+      "genres": [
+        "other"
+      ]
+    },
+    {
+      "fullName": "Hann1bl3L3ct3r/ClickFix",
+      "genres": [
+        "security"
+      ]
+    },
+    {
+      "fullName": "ghondar/warp.dev_account_manager",
+      "genres": [
+        "cli-ides",
+        "python"
+      ]
+    },
+    {
+      "fullName": "jasonkneen/kiro",
+      "genres": [
+        "cli-ides",
+        "typescript-javascript"
+      ]
+    },
+    {
+      "fullName": "nordsecgroup/CloneKit",
+      "genres": [
+        "cli-ides",
+        "typescript-javascript"
+      ]
+    },
+    {
+      "fullName": "nus-ncl/OctoBot",
+      "genres": [
+        "cli-ides",
+        "python"
+      ]
+    },
+    {
+      "fullName": "webmonch/hide-my-mail-cloudflare",
+      "genres": [
+        "other",
+        "typescript-javascript"
+      ]
+    },
+    {
+      "fullName": "TheCyb3rAlpha/BobTheSmuggler",
+      "genres": [
+        "security",
+        "python"
+      ]
+    },
+    {
+      "fullName": "LonamiWebs/Telethon",
+      "genres": [
+        "osint-telegram",
+        "python"
+      ]
+    },
+    {
+      "fullName": "father-bot/chatgpt_telegram_bot",
+      "genres": [
+        "ai-agents",
+        "osint-telegram",
+        "python"
+      ]
+    },
+    {
+      "fullName": "eternnoir/pyTelegramBotAPI",
+      "genres": [
+        "osint-telegram",
+        "python"
+      ]
+    },
+    {
+      "fullName": "Anon4You/OnlineSimBot",
+      "genres": [
+        "osint-telegram",
+        "python"
+      ]
+    },
+    {
+      "fullName": "Anon4You/Ai-Image-Generator-Bot",
+      "genres": [
+        "osint-telegram",
+        "python"
+      ]
+    },
+    {
+      "fullName": "Anon4You/XBomber",
+      "genres": [
+        "other",
+        "python"
+      ]
+    },
+    {
+      "fullName": "Anon4You/Telegram-Api",
+      "genres": [
+        "osint-telegram",
+        "python"
+      ]
+    },
+    {
+      "fullName": "simplex-chat/simplex-chat",
+      "genres": [
+        "mobile-android"
+      ]
+    },
+    {
+      "fullName": "amarpreetbhatia/imgcollector",
+      "genres": [
+        "other",
+        "typescript-javascript"
+      ]
+    },
+    {
+      "fullName": "megadose/toutatis",
+      "genres": [
+        "other",
+        "python"
+      ]
+    },
+    {
+      "fullName": "FerminT/TelegramRAT",
+      "genres": [
+        "osint-telegram"
+      ]
+    },
+    {
+      "fullName": "alivx/rat-telegram-malware",
+      "genres": [
+        "security",
+        "osint-telegram",
+        "python"
+      ]
+    },
+    {
+      "fullName": "user-hash/LivingDocFramework",
+      "genres": [
+        "other"
+      ]
+    },
+    {
+      "fullName": "Tomiwa-Ot/telegram-c2",
+      "genres": [
+        "security",
+        "osint-telegram",
+        "python"
+      ]
+    },
+    {
+      "fullName": "3ct0s/dystopia-c2",
+      "genres": [
+        "security",
+        "osint-telegram",
+        "python"
+      ]
+    },
+    {
+      "fullName": "4m3rr0r/TeleC2",
+      "genres": [
+        "ai-agents",
+        "osint-telegram",
+        "python"
+      ]
+    },
+    {
+      "fullName": "AsamK/signal-cli",
+      "genres": [
+        "osint-telegram",
+        "cli-ides"
+      ]
+    },
+    {
+      "fullName": "signalapp/libsignal-service-java",
+      "genres": [
+        "osint-telegram",
+        "mobile-android"
+      ]
+    },
+    {
+      "fullName": "x1xhlol/system-prompts-and-models-of-ai-tools",
+      "genres": [
+        "ai-agents",
+        "cli-ides"
+      ]
+    },
+    {
+      "fullName": "tqdm/tqdm",
+      "genres": [
+        "cli-ides",
+        "python"
+      ]
+    },
+    {
+      "fullName": "Copycord/Copycord",
+      "genres": [
+        "osint-telegram",
+        "python"
+      ]
+    },
+    {
+      "fullName": "aahnik/tgcf",
+      "genres": [
+        "osint-telegram",
+        "python"
+      ]
+    },
+    {
+      "fullName": "facebookresearch/sam-3d-objects",
+      "genres": [
+        "other",
+        "python"
+      ]
+    },
+    {
+      "fullName": "agmmnn/tauri-ui",
+      "genres": [
+        "web-frontend",
+        "typescript-javascript"
+      ]
+    },
+    {
+      "fullName": "electron-userland/electron-builder",
+      "genres": [
+        "other",
+        "typescript-javascript"
+      ]
+    },
+    {
+      "fullName": "pear-devs/pear-desktop",
+      "genres": [
+        "other",
+        "typescript-javascript"
+      ]
+    },
+    {
+      "fullName": "by321/safetensors_util",
+      "genres": [
+        "other",
+        "python"
+      ]
+    },
+    {
+      "fullName": "lllyasviel/Fooocus",
+      "genres": [
+        "other",
+        "python"
+      ]
+    },
+    {
+      "fullName": "Fosowl/agenticSeek",
+      "genres": [
+        "ai-agents",
+        "python"
+      ]
+    },
+    {
+      "fullName": "mahmoud/awesome-python-applications",
+      "genres": [
+        "awesome-lists",
+        "data-ml"
+      ]
+    },
+    {
+      "fullName": "GLips/Figma-Context-MCP",
+      "genres": [
+        "ai-agents",
+        "cli-ides",
+        "typescript-javascript"
+      ]
+    },
+    {
+      "fullName": "signalapp/libsignal",
+      "genres": [
+        "osint-telegram",
+        "systems-rust-go-cpp"
+      ]
+    },
+    {
+      "fullName": "aaronetz/signal-bot",
+      "genres": [
+        "osint-telegram"
+      ]
+    },
+    {
+      "fullName": "tbvdm/sigtop",
+      "genres": [
+        "osint-telegram",
+        "systems-rust-go-cpp"
+      ]
+    },
+    {
+      "fullName": "kirodotdev/Kiro",
+      "genres": [
+        "ai-agents",
+        "cli-ides",
+        "typescript-javascript"
+      ]
+    },
+    {
+      "fullName": "Huanshere/VideoLingo",
+      "genres": [
+        "other",
+        "python"
+      ]
+    },
+    {
+      "fullName": "mamoniem/UnrealEditorPythonScripts",
+      "genres": [
+        "other",
+        "python"
+      ]
+    },
+    {
+      "fullName": "praydog/UEVR",
+      "genres": [
+        "other",
+        "systems-rust-go-cpp"
+      ]
+    },
+    {
+      "fullName": "Allar/ue5-style-guide",
+      "genres": [
+        "other"
+      ]
+    },
+    {
+      "fullName": "tomlooman/ActionRoguelike",
+      "genres": [
+        "other",
+        "systems-rust-go-cpp"
+      ]
+    },
+    {
+      "fullName": "PolygonHive/GASPALS",
+      "genres": [
+        "other"
+      ]
+    },
+    {
+      "fullName": "insthync/awesome-unreal",
+      "genres": [
+        "awesome-lists"
+      ]
+    },
+    {
+      "fullName": "VoxelPlugin/VoxelPluginFreeLegacy",
+      "genres": [
+        "other",
+        "systems-rust-go-cpp"
+      ]
+    },
+    {
+      "fullName": "tranek/GASDocumentation",
+      "genres": [
+        "other",
+        "systems-rust-go-cpp"
+      ]
+    },
+    {
+      "fullName": "Sixze/ALS-Refactored",
+      "genres": [
+        "other",
+        "systems-rust-go-cpp"
+      ]
+    },
+    {
+      "fullName": "ashe23/GamedevHelper",
+      "genres": [
+        "other",
+        "systems-rust-go-cpp"
+      ]
+    },
+    {
+      "fullName": "RedpointGames/uet",
+      "genres": [
+        "other"
+      ]
+    },
+    {
+      "fullName": "EpicGames/BlenderTools",
+      "genres": [
+        "other",
+        "python"
+      ]
+    },
+    {
+      "fullName": "threepeatgames/ThreepeatAnimTools",
+      "genres": [
+        "other",
+        "systems-rust-go-cpp"
+      ]
+    },
+    {
+      "fullName": "xverse-engine/XScene-UEPlugin",
+      "genres": [
+        "other",
+        "systems-rust-go-cpp"
+      ]
+    },
+    {
+      "fullName": "Italink/GaussianSplattingForUnrealEngine",
+      "genres": [
+        "other",
+        "systems-rust-go-cpp"
+      ]
+    },
+    {
+      "fullName": "BenPyton/ProceduralDungeon",
+      "genres": [
+        "other",
+        "systems-rust-go-cpp"
+      ]
+    },
+    {
+      "fullName": "truong-bui/AsyncLoadingScreen",
+      "genres": [
+        "other",
+        "systems-rust-go-cpp"
+      ]
+    },
+    {
+      "fullName": "TriAxis-Games/RealtimeMeshComponent",
+      "genres": [
+        "other",
+        "systems-rust-go-cpp"
+      ]
+    },
+    {
+      "fullName": "gildor2/UEViewer",
+      "genres": [
+        "other",
+        "systems-rust-go-cpp"
+      ]
+    },
+    {
+      "fullName": "xavier150/Blender-For-UnrealEngine-Addons",
+      "genres": [
+        "other",
+        "python"
+      ]
+    },
+    {
+      "fullName": "ButzYung/SystemAnimatorOnline",
+      "genres": [
+        "other",
+        "typescript-javascript"
+      ]
+    },
+    {
+      "fullName": "Tencent-Hunyuan/Hunyuan3D-2",
+      "genres": [
+        "other",
+        "python"
+      ]
+    },
+    {
+      "fullName": "Tencent-Hunyuan/Hunyuan3D-2.1",
+      "genres": [
+        "other",
+        "python"
+      ]
+    },
+    {
+      "fullName": "facebookresearch/sam-3d-body",
+      "genres": [
+        "llm-models",
+        "python"
+      ]
+    },
+    {
+      "fullName": "BeehiveInnovations/pal-mcp-server",
+      "genres": [
+        "ai-agents",
+        "llm-models",
+        "python"
+      ]
+    },
+    {
+      "fullName": "aaif-goose/goose",
+      "genres": [
+        "ai-agents",
+        "llm-models",
+        "systems-rust-go-cpp"
+      ]
+    },
+    {
+      "fullName": "themesberg/flowbite-mcp",
+      "genres": [
+        "ai-agents",
+        "typescript-javascript"
+      ]
+    },
+    {
+      "fullName": "freemocap/freemocap",
+      "genres": [
+        "other",
+        "typescript-javascript"
+      ]
+    },
+    {
+      "fullName": "CadeEvs/FrostyToolsuite",
+      "genres": [
+        "other"
+      ]
+    },
+    {
+      "fullName": "visualbruno/ComfyUI-Trellis2",
+      "genres": [
+        "llm-models",
+        "python"
+      ]
+    }
+  ]
+}
