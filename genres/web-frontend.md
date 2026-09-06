@@ -21,7 +21,7 @@
 | [NicolaSpadari/nuxtor](https://github.com/NicolaSpadari/nuxtor) | Vue | 865 | Build tiny desktop apps with Tauri, Nuxt 4 and NuxtUI 4 |
 | [sentrionic/Valkyrie](https://github.com/sentrionic/Valkyrie) | Go | 335 | A Fullstack Discord Clone using React and Go. |
 | [teoobarca/perplexity-mcp](https://github.com/teoobarca/perplexity-mcp) | Python | 13 | Free Perplexity AI MCP server with multi-account pooling, React admin dashboard, zero-cost health monitoring, and Telegram alerts. No API keys needed. |
-| [dfrnoch/accounting](https://github.com/dfrnoch/accounting) | CSS | 11 | 🧼 Customisable Accounting Software |
-| [KarlenNersisyan/fake-telegram](https://github.com/KarlenNersisyan/fake-telegram) | JavaScript | 3 | An example of a chat-app(Fake Telegram) site built using the React library and the Firebase(Authentication and Realtime Database).😉 |
+| [dfrnoch/accounting](https://github.com/dfrnoch/accounting) | CSS | 11 | 🧾 Customisable Accounting Software |
+| [KarlenNersisyan/fake-telegram](https://github.com/KarlenNersisyan/fake-telegram) | JavaScript | 3 | An example of a chat-app(Fake Telegram) site built using the React library and the Firebase(Authentication and Realtime Database).🤗 |
 | [jekidev/wolt-react-native](https://github.com/jekidev/wolt-react-native) | Unknown | 1 |  |
 | [nordsecgroup/Starkiller](https://github.com/nordsecgroup/Starkiller) | Unknown | 1 | Starkiller is a Frontend for PowerShell Empire. |
