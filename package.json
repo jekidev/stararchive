@@ -1,0 +1,11 @@
+{
+  "name": "stararchive",
+  "private": true,
+  "type": "module",
+  "description": "Portable GitHub starred-repo archive for jekidev, with STARCHIVE and genre lists",
+  "scripts": {
+    "refresh": "node scripts/refresh.mjs",
+    "classify": "node scripts/classify.mjs",
+    "snapshot": "node scripts/refresh.mjs && node scripts/classify.mjs"
+  }
+}

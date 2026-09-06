@@ -1,0 +1,26 @@
+{
+  "name": "github-starred-repos",
+  "displayName": "GitHub starred repos",
+  "version": "1.0.0",
+  "description": "Look up jekidev starred GitHub repositories by genre from this portable stararchive catalog.",
+  "author": {
+    "name": "Jeppe Kildegaard",
+    "url": "https://github.com/jekidev"
+  },
+  "homepage": "https://github.com/jekidev/stararchive",
+  "repository": "https://github.com/jekidev/stararchive",
+  "license": "MIT",
+  "keywords": [
+    "github",
+    "stars",
+    "starchive",
+    "stararchive"
+  ],
+  "category": "developer-tools",
+  "tags": [
+    "github",
+    "stars",
+    "catalog"
+  ],
+  "skills": "./.cursor/skills/"
+}
