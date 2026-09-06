@@ -58,8 +58,6 @@ cd STARCHIVE
 .\Get-StarredRepos.ps1
 ```
 
----
-
 This will output `starred_repos.csv`.
 
 ---
